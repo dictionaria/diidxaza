@@ -1,0 +1,28 @@
+{
+    "authors": ["Gabriela Pérez Báez", "Terrence Kaufman"],
+    "language": {
+        "name": "La Ventosa Diidxazá lexico-botanical",
+        "isocode": "zai",
+        "glottocode": "isth1244"
+    },
+    "date_published": "2019",
+    "number": 9,
+    "properties": {
+        "labels": {
+            "SenseTable": {
+                "AssociatedTaxa": "Taxa"
+            },
+            "EntryTable": {
+                "HeadwordPDLMA": "PDLMA",
+                "Sources": "Speaker"
+            }
+        },
+        "metalanguages": {
+            "gxx": "Diidxazá",
+            "gxy": "Spanish"
+        },
+        "custom_fields": ["PDLMA"],
+        "second_tab": ["Spanish", "Diidxazá"],
+        "title": "La Ventosa Diidxazá Lexico-Botanical Dictionary"
+    }
+}
