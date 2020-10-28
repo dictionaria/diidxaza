@@ -3,11 +3,11 @@
 > by Gabriela Pérez Báez and Terrence Kaufman
 
 This repository contains the data underlying the published version of the dictionary
-at [Dictionaria](https://dictionaria.clld.org/contributions/diidxaza) as [CLDF](https://cldf.clld.org) 
-[Dictionary](cldf) 
+at [Dictionaria](https://dictionaria.clld.org/contributions/diidxaza) as [CLDF](https://cldf.clld.org)
+[Dictionary](cldf)
 [![Build Status](https://travis-ci.org/dictionaria/diidxaza.svg?branch=master)](https://travis-ci.org/dictionaria/diidxaza)
 
-Releases of this repository are archived with and accessible through 
+Releases of this repository are archived with and accessible through
 [ZENODO](https://zenodo.org/communities/dictionaria) and the latest release
 is published on the [Dictionaria website](https://dictionaria.clld.org).
 

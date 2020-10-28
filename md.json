@@ -7,7 +7,9 @@
     },
     "date_published": "2019",
     "number": 9,
+    "doi": "10.5281/zenodo.3451857",
     "properties": {
+        "title": "La Ventosa Diidxazá Lexico-Botanical Dictionary",
         "labels": {
             "SenseTable": {
                 "AssociatedTaxa": "Taxa"
@@ -22,7 +24,6 @@
             "gxy": "Spanish"
         },
         "custom_fields": ["PDLMA"],
-        "second_tab": ["Spanish", "Diidxazá"],
-        "title": "La Ventosa Diidxazá Lexico-Botanical Dictionary"
+        "second_tab": ["Spanish", "Diidxazá"]
     }
 }
