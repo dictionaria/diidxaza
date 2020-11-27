@@ -5,7 +5,7 @@
 This repository contains the data underlying the published version of the dictionary
 at [Dictionaria](https://dictionaria.clld.org/contributions/diidxaza) as [CLDF](https://cldf.clld.org)
 [Dictionary](cldf)
-[![Build Status](https://travis-ci.org/dictionaria/diidxaza.svg?branch=master)](https://travis-ci.org/dictionaria/diidxaza)
+[![CLDF validation](https://github.com/dictionaria/diidxaza/workflows/CLDF-validation/badge.svg)](https://github.com/dictionaria/diidxaza/actions?query=workflow%3ACLDF-validation)
 
 Releases of this repository are archived with and accessible through
 [ZENODO](https://zenodo.org/communities/dictionaria) and the latest release
