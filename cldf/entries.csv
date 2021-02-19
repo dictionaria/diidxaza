@@ -1,953 +1,953 @@
-EntryID,Headword,HeadwordPDLMA,POS,Sources
-E0099,aju,a*ju,s,JLC;RGL03;RLC04;RLC10
-E0100,alcanfor,alka-nfo!r,s,RLC04;RLC10
-E0101,alcatras,alka-tra!s,s,RLC04;RLC10
-E1132,almendra,alme*ndra,s,JLC;RLC10;RLC14
-E0105,"anis estreya","ani!s estre*ya",s,RLC04
-E1195,"anisadu xuba'","anisa*du zhuba!7",s,VC17
-E0108,anona,ano*na,s,RLC04;RLC10;FSL14
-E0109,apiu,a*pyu,s,RLC04;RLC10
-E0110,arnica,a*rrni-ka,s,RGL03;RLC04;RLC10
-E0111,arros,a-rro!s,s,RLC10
-E0123,"baba' xti nite","baba!' (x.ti*) nite",s,RLC10
-E1235,"bacua'",ba-kwa7,s,FSL17;VC17
-E0006,"bacuela gui'xhi'","ba-kwe*lla* gi7xi",s,FSL12;FSL14;RLC14;VOT14
-E0005,"bacuela niza","ba-kwe*lla* (niza)",s,JLC;ND;VP;RGL03;RLC10;FSL14;RLL14
-E0007,"bacuugu'",ba-kuugu,s,EJG;RGL03;FSL14
-E1134,"bacuxu'",ba-kuzhu!7,s,ND;VP;RLC04;RLC10
-E0009,"bacuxu' quichi'","ba-kuzhu!7 kichi!7",s,ND;VP;RLC04;RLC10;FSL14;RLC14;FSL15
-E0008,"bacuxu' rosado","ba-kuzhu!7 rosa*du",s,ND;VP;RLC04;RLC10;FSL14;RLC14;FSL15
-E1108,badana,ba-da*na,s,FSL14
-E0010,"badandi'",ba-dandi!7,s,EJG
-E0098,"badxa laga","ba-dxa* la*ga",s,RLC04;RLC10
-E0122,baina,ba*yna,s,JLC;RGL03;RLC10
-E0011,"baladxi'",ba-ladxi!7,s,VC12;FSL14;RLC14
-E0012,"baladxi' guiichi","ba-ladxi!' giichi*",s,RLC10;FSL14;RLC14
-E0013,"bandadi'",ba-ndadi!7,s,EJG;JLC;VP;RLC04;RLC10;RLC14
-E0014,bandaga,ba-ndaga,s,EJG;JLC;VP;RGL03;RLC10;VOT14
-E0015,"bandaga bata","ba-ndaga bata",s,RLC04;GPB10;RLC10
-E0019,"bandaga bia","ba-ndaga bya*",s,RGL03
-E0017,"bandaga biduaa","ba-ndaga bi-dwaa",s,RLC10
-E0020,"bandaga bioongo'","ba-ndaga byoongo",s,RLC04;RLC10
-E0131,"bandaga granada","ba-ndaga grana*da",s,RLC04;RLC10
-E0022,"bandaga gueta guu","ba-ndaga geta guu*",s,RGL03;RLC10
-E1219,"bandaga guie'","ba-ndaga gye7",s,VC17
-E1116,"bandaga huigu'","ba-ndaga wigu!7",s,RLC14
-E0025,"bandaga mani' xubi","ba-ndaga mani!' zhu!bi",s,RLC04;RLC10
-E0026,"bandaga mudu","ba-ndaga mudu*",s,RGL03;RLC04;RLC10;FSL14;RLC14;VOT14
-E0027,"bandaga naranja","ba-ndaga nara*nja",s,RLC04;RLC10
-E0029,"bandaga nisa","ba-ndaga nisa",s,RLC10
-E0033,"bandaga ri'ni'","ba-ndaga ri7ni",s,RGL03;RLC04;RLC10;VOT14
-E0031,"bandaga riguiidi'","ba-ndaga ri-giidi",s,JLC;RLC07;RLC10
-E1154,"bandaga rini","ba-ndaga rini",s,JLC;RLC10;RLC14;VOT14
-E0128,"bandaga ta guu","ba-ndaga ta guu*",s,RLC10
-E0129,"bandaga te","ba-ndaga te",s,JLC;SOO14;VOT14
-E1117,"bandaga xolo","ba-ndaga zhollo",s,RLC14
-E0135,"bandaga yaa","ba-ndaga yaa",s,RLC10
-E0136,"bandaga yaxhu","ba-ndaga yaxu",s,RLC04;RLC10
-E0132,"bandaga yerbasanta","ba-ndaga yerbasa*nta",s,RLC04;RLC10;VOT14
-E1262,"bandaga yua","ba-ndaga yuwa",s,VC17
-E1187,"bandaga yuxi","ba-ndaga yuzhi",s,VC17
-E0138,"bandaga zee","ba-ndaga zee",s,JLC;RLC10;RLC14
-E0140,"bandui'",ba-ndwi*7,s,EJG;JLC;VP;RGL03;RLC04;RLC05;RLC10
-E0141,"bandui' gui'xi'","ba-ndwi*7 gi7xi",s,RGL03;RLC04;FSL14
-E0142,"bandui' roonde'","ba-ndwi*' roonde*",s,RGL03;RLC04;RLC10;FSL14
-E0113,bara,ba*ra,s,JLC;RLC10
-E0114,"bara mboolo'","ba*ra mboolo",s,JLC;RLC10;RLC14;VOT14
-E0115,"bara nite","ba*ra nite",s,JLC;RLC10;RLC14;SOO14;VOT14
-E0119,"bara xiaa","ba*ra zhyaa*",s,JLC;FSL14;VC17
-E0120,"bara yu'la'","ba*ra yu!7la",s,JLC;RLC10
-E0121,"bara ziuula'","ba*ra z.yuula",s,RLC10
-E0145,baruusa,ba-ruu*sa*,s,JLC;RLC10;RLC14;VOT14
-E1224,"bato' yaga","ba-to7 yaga",s,VC17
-E0147,"batuuba'",ba-tuuba,s,RGL03;RLC09;RLC10;FSL15;RLC15;VOT15
-E0148,"batuuba' gui'xhi'","ba-tuuba gi'xi",s,JLC;RLC14
-E1083,batuucha,ba-tuu*cha*,s,FSL14
-E1095,"batuuza'",ba-tuuza,s,RLC14;VOT14;RLC17
-E0149,be,be,s,EJG;VP;RLC10
-E1260,"be yaga","be yaga",s,VC17
-E1221,"be'te' tubi","be7te tu*bi",s,VC17
-E0160,"be'za'",be7za,s,EJG;JLC;VP;RGL03;RLC10
-E0162,"be'za' yaga","be7za yaga",s,EJG;JLC;VP;RLC10;FSL12;FSL15
-E0152,"beela quii","beella* kii*",s,RLC04;RLC10;FSL14;FSL15;VOT15
-E0155,berbena,berbe*na,s,RLC04;RLC10
-E0158,"beu'",bewu*7,s,EJG;VP;RLC10
-E0175,"bi'ca'",bi7.ka,s,JLC;VC17
-E0261,"bi'xhu'",bi7xu,s,EJG;JLC;RLC10;VC17
-E1181,bia,bi.ya,s,RGL03;RLC10;FSL14;VC17
-E0292,bia,bi.ya,s,EJG;JLC;ND;VP;RGL03;RLC04;RLC10
-E1182,"bia biduaa","bi.ya bi-dwaa",s,VC17
-E1179,"bia huidxe'","b.ya wi*-dxe7*",s,VC17
-E0294,biaa,b.yaa*,s,ND;RLC10;VC17
-E0299,biaachi,b.yaa*chi*,s,EJG;FSL14;RLC14;FSL15;RLC15;VOT15
-E0300,biaahui,b.yaawi*,s,EJG;JLC;ND;VP;RLC04;RLC10;FSL14;RLC14
-E0165,"biaahui do","b.yaawi* do",s,EJG;FSL12;FSL14
-E0166,biadxi,b.yadxi,s,EJG;ND;VP;RLC04;RLC10
-E0167,"biadxi beñe","b.yadxi benye",s,JLC;RLC10
-E0168,"biadxi bidxiña","b.yadxi bi-dxinya*",s,JLC;FSL14
-E0170,"biadxi dani","b.yadxi dani*",s,RLC10;FSL15;RLC15;VOT15
-E0169,"biadxi guchi","b.yadxi guchi",s,RLC10;FSL14
-E0171,"biadxi mayu","b.yadxi ma*yu",s,VOT12;FSL14;RLC14
-E0172,"biadxi rii","b.yadxi rii",s,JLC;RLC04;RLC10;VOT12;FSL14;RLC14
-E0173,"biadxi yaagui'","b.yadxi yaagi",s,JLC;RLC10;FSL14;RLC14
-E0174,"biadxi yi'","b.yadxi yi*7",s,JLC;FSL14;RLC14
-E1199,bichiisa,bi-chii*sa*,s,VP
-E0180,bichooxhe,bi-chooxe*,s,EJG;JLC;ND;VP;RGL03;RLC04;RLC10
-E0181,"bichooxhe berde","bi-chooxe* be*rrde",s,RLC04;RLC10
-E1238,"bichooxhe bola","bi-chooxe* bo*la",s,VC17
-E1242,"bichooxhe dxu'","bi-chooxe* dxu*7",s,VC17
-E1246,"bichooxhe gui'xhi'","bi-chooxe* gi7xi",s,EJG;JLC;ND;VP;RLC04;RLC10;RLC14;SOO14;VOT14;FSL15;RLC15;VOT15
-E1241,"bichooxhe guie lu bidxiña","bi-chooxe* gye lu bi-dxinya*7",s,VC17
-E1240,"bichooxhe huala'dxi'","bi-chooxe* wa-la!7dxi",s,VC17
-E0179,"bichooxhe ndaba'","bi-chooxe* ndaba!7",s,EJG;JLC;ND;VP;RLC04;RLC10;RLC14;SOO14;VOT14;FSL15;RLC15;VOT15
-E1244,"bichooxhe xtinu","bi-chooxe* x.ti*nu*",s,VC17
-E1239,"bichooxhe yani","bi-chooxe* yanni",s,VC17
-E0176,bicuudxe,bi-kuu*dxe*,s,JLC;RLC10
-E0187,biduaa,bi-dwaa,s,EJG;VP;RGL03;RLC10
-E0188,"biduaa bidxi'","bi-dwaa bi-dxi!7",s,RGL03;RLC04;RLC10;CE12
-E0189,"biduaa chita","bi-dwaa chita",s,EJG;VP;RGL03;RLC04;RLC10
-E0190,"biduaa enanu","bi-dwaa ena*nu",s,RLC10
-E0192,"biduaa migu","bi-dwaa mi*gu*",s,RLC10
-E0193,"biduaa piña","bi-dwaa pi*nya",s,RGL03;RLC04;VC17
-E0194,"biduaa sapu","bi-dwaa sa!pu",s,RLC10
-E0195,"biduaa seda","bi-dwaa se*da",s,RGL03;RLC04;RLC10
-E0196,"biduaa xiña'","bi-dwaa zhi-nya*7",s,RGL03;RLC04;RLC10
-E0197,"biduaa yaagui'","bi-dwaa yaagi",s,RLC10
-E0198,bidxi,bi-dxi,s,EJG;JLC;ND;VP;RGL03;RLC04;RLC10;VOT14;FSL15;RLC15;VOT15
-E1156,"bidxi beenda'","bi-dxi beenda",s,JLC;RGL03;RLC04;RLC10;FSL12;RLC14;RLL14;FSL15
-E0201,"bidxi cha'hui'","bi-dxi cha!7wi",s,RGL03;RLC04;RLC10
-E0203,"bidxi dxiña","bi-dxi dxinya",s,EJG;ND;RGL03;RLC10;FSL12;FSL15
-E1158,"bidxi gringu","bi-dxi gri*ngu",s,FSL15;FSL16
-E0206,"bidxi layu","bi-dxi la=yu",s,EJG;FSL14;RLC14
-E0208,"bidxi mudu","bi-dxi mudu*",s,RGL03;RLC04;RLC10;FSL15
-E1157,"bidxi mula'","bi-dxi mulla!7",s,FSL15
-E0202,"bidxi pinu (huiini')","bi-dxi pi*nu (wiini)",s,FSL15
-E0214,"bidxi tini","bi-dxi tini",s,EJG;FSL14;RLC14
-E0215,"bidxi toope","bi-dxi toope*",s,EJG;JLC;ND;RGL03;FSL12;FSL15;FSL16
-E0216,"bidxi yele'","bi-dxi yelle!7",s,RLC04;RLC10;FSL15
-E0212,"bidxi ñee de","bi-dxi nyee de",s,EJG;RLC10
-E0218,bidxumi,bi-dxu*mi*,s,EJG;JLC;ND;VP;FSL14;FSL17;VC17
-E0220,"biga raagu'","bi-ga raagu",s,EJG;RGL03;RLC10;RCL12;RLC14
-E0221,"biga raagu' migu","bi-ga raagu migu*",s,EJG;VP;VC17
-E1183,"biga raagu' niidxi","bi-ga raagu niidxi*",s,VC17
-E1184,"biga raagu' roonde","bi-ga raagu roonde*",s,VC17
-E0227,"biguie'",bi-gye7,s,RLC10
-E0224,"bigupi benda","bi-gupi benda",s,FSL14
-E0223,"biguá gui'xhi'","bi-gwa! gi7xi",s,VC15
-E0228,bii,bi.i*,s,JLC;ND;VP;RLC04;RLC10
-E0229,biibi,"(yaga) bii*bi*",s,JLC;RLC14
-E0230,"biibi oro","bii*bi* o*ro",s,ND;RLC04;RLC10;FSL15;RLC15
-E0231,"biidxi'",biidxi,s,JLC;ND;VP;RGL03;RLC04;RLC10
-E0232,"biidxi' almedra","biidxi alme*ndra",s,JLC;RGL03;RLC10
-E0233,"biidxi' guitu","biidxi gitu",s,JLC;RLC04;RLC10
-E0235,biitu,biitu*,s,EJG;JLC;ND;VP;RGL03;RLC10;RLC14;VOT14
-E0238,"bilumbu'",bi-lumbu!7,s,EJG;ND;RGL03;RLC09;RLC10;FSL15;RLC15;VOT15
-E0239,"bilumbu' riga","bi-lumbu!' riga",s,JLC;RLC10
-E0240,"bindii ziña","bi-ndii* zinya",s,JLC;RLC10
-E0241,bini,bi-ni,s,VP;RLC10;VC17
-E1251,bini,bi-ni,s,VP;RLC10;VC17
-E0242,biniidxi,bi-nii*dxi*,s,JLC;VP;RLC10
-E1141,"biniidxi guchi","bi-nii*dxi* guchi",s,FSL14;RLC14;VC17
-E0243,"biniidxi xiñá'","bi-nii*dxi* (gye7) zhi-nya*7",s,FSL14
-E0247,"bioongo' dani","byoongo dani*",s,RLC04;RLC10
-E0094,"biquiiri'",bi-kiiri,s,EJG;ND;VC17
-E1189,"biquiiri' daapa","bi-kiiri daa*pa*",s,EJG;VC17
-E0251,"biruba guiiña'","bi-ru*ba* giinya",s,JLC;VP;RLC04;RLC10;FSL15;RLC15;VOT15
-E0254,birungu,bi-rungu*,s,JLC;VP;RLC04;RLC10
-E0258,"bitiaa gui'xhi'","bi-tyaa* gi7xi",s,JLC;RLC10
-E0256,"bitu xiga","(yaga) bitu* zhi^ga",s,JLC;ND;VP;RLC10;FSL12;RSL12;FSL14;MLC14;RLC14;FSL15;RLC15
-E0037,"biu'dxu'",b.y.u7dxu,s,JLC;RLC10
-E0259,"biuda alegre","byu*da ale*gre",s,RLC04;RLC10
-E0260,"bixhiidi'",bi-xiidi,s,EJG;JLC;ND;RLC10
-E0264,bixia,bi-zhya*,s,JLC;ND;VP;RLC10;FSL14;VC17
-E1097,bixolo,bi-zholo*,s,FSL15
-E0263,"bixuga na' mixhtu'","bi-zhuga* na*' mi^xtu!7",s,JLC;RLC04;RLC10
-E1198,biyee,bi-yee,s,RLC10
-E0266,bizaa,bi-zaa,s,EJG;ND;VP;RGL03;RLC10;RLC14
-E1282,"bizaa baala","bi-zaa baa*la*",s,VC17
-E0267,"bizaa bayu","bi-zaa ba*yu",s,RLC04;RLC10
-E0268,"bizaa bidxi","bi-zaa bidxi",s,RLC;RLC10
-E0269,"bizaa blancu","bi-zaa bla*nku",s,RLC04;RLC10
-E0270,"bizaa bolita","bi-zaa boli*ta",s,RLC10;FSL17
-E1212,"bizaa cuaana'","bi-zaa kwaana",s,FSL17;VC17
-E1203,"bizaa dxima","bi-zaa dxi*ma",s,FSL17
-E1202,"bizaa dxima","bi-zaa dxi*ma",s,FSL17;VC17
-E1204,"bizaa huii","bi-zaa wii",s,VC17
-E0272,"bizaa huiini'","bi-zaa wiini",s,EJG;VP;RGL03;RLC10;FSL17;VC17
-E0273,"bizaa quichi'","bi-zaa kichi!7",s,RLC04;RLC10
-E0274,"bizaa ri'ni'","bi-zaa ri7ni",s,JLC;RLC10
-E0275,"bizaa yaase'","bi-zaa yaase",s,JLC;RLC10
-E0276,bizachi,bi-zachi,s,EJG;ND
-E0279,biziaa,bi-zyaa*,s,EJG;JLC;VP;RGL03;RLC10
-E1205,"biziaa nda'","bi-zyaa* nda*'",s,VC17
-E0926,"biziaa xtia","bi-zyaa* xtya! ~ (yaga) alme*ndra",s,RLC12
-E1206,"biziaa yu","bi-zyaa* yu",s,VC17
-E0278,bizunu,bi-zunu,s,EJG;VP;RLC10;RLC14;VOT14;VC17
-E0244,"biña'",bi-nya*7,s,FSL12;RLC14
-E0281,bolita,boli*ta,s,RLC10;RLC14
-E0283,brasil,bra-si!l,s,RLC04;RLC10;FSL15;RLC15
-E0288,"bui'",bwi*7,s,EJG;JLC;ND;VP;RLC04;RLC10
-E0290,"bui' dani","bwi*' da^ni*",s,JLC
-E0291,"bui' de pera","bwi*' de+ pe*ra",s,RLC04;RLC10
-E0289,"bui' guchi","bwi*7 guchi",s,RLC04;RLC10
-E0302,cacahuate,kakawa*te,s,JLC;RLC10
-E0303,cafe,ka-fe!,s,RLC04;RLC10
-E0304,canela,kane*la,s,RLC10
-E0305,catalan,kata-la!n,s,RGL03;RLC04;RLC10
-E1107,"charru gringu",cha*rrugri*ngu,s,FSL14
-E0329,chinchin,chin-chi!n,s,FSL12
-E0307,clabu,kla*bu,s,RGL03;RLC04;RLC10
-E0308,"clabu huiini'","kla*bu wiini",s,RGL03;RLC04;FSL14
-E0309,coco,ko*ko,s,JLC;RLC04;RLC10
-E0310,"coco huiini'","ko*ko wiini",s,JLC;RLC10
-E0311,"cola de cabayu","ko*la de+ kaba*yu",s,RLC04;RLC10
-E0911,"cola mani xubi","ko*lla mani!' zhu!bi",s,RGL03;RLC04;FSL12;VC12;VOT15
-E0857,"cola mani xubi dani","ko*lla mani!' zhu!bi dani*",s,VG17
-E1072,"congo dani","ko*ngo dani*",s,FSL14
-E0314,"coongo'",koongo,s,RLC10
-E0315,copachil,pa-chi!l,s,FSL12;FSL16
-E1110,copita,kopi*ta,s,FSL14;RLC14
-E0317,coquito,koki*to,s,RLC04;RLC10
-E0318,cortes,korrte!s,s,FSL14
-E0319,"cresta gayu","kre*sta ga*yu",s,RLC04;RLC10
-E1268,"cuaananaxhi gui'xhi'","kwaana=naxi gi7xi",s,VC17
-E0322,cuaananaxhi,kwaana=naxi,s,JLC;ND;RLC10
-E0323,"cue' bandaga","kwe7 ba-ndaga",s,RGL03;RLC10
-E0324,"cue' yaga","kwe7 yaga",s,RGL03;RLC10;RLC14;SOO14;VOT14;VC17
-E1106,cuete,kwe*te,s,FSL14;RLL14
-E0320,cumbriu,"ku-mbri!wu, ko-mbri!w",s,JLC;RGL03;RLC10;FSL15;VOT15
-E0335,"de guie'","de gye7",s,RGL03;VC17
-E0338,"de punta rrama","de+ pu*nta rra*ma",s,RGL03;RLC10
-E0336,"de punta yaga","de+ pu*nta yaga",s,RGL03;RLC10
-E0339,"deche bandaga","deche ba-ndaga",s,RGL03;RLC10;VC17
-E1281,"diaga bindxaba'","dyaga bin=dxaba!7",s,RGL03;RLC04;RLC10;VC17
-E1232,"doo donda","doo donda",s,VC17
-E0341,"doo luxu","doo luzhu*",s,EJG;RLC10
-E0342,"doo ziña","doo zinya",s,JLC;RLC10
-E1099,dormilona,dormilo*na,s,FSL14;FSL15
-E0343,du,du,s,EJG;JLC;ND;VP;RGL03;RLC10;VC17
-E0050,"du'ga'",du!7ga,s,JLC;RLC10
-E1130,"du'ga' gui'xi'","du!7ga gi7xi",s,RLC14
-E0345,duba,duba,s,JLC;ND;VP;RLC10
-E0798,"duba dxa","duba dxa*",s,JLC;RLC04;RLC10;VC17
-E0799,"duba dxa gui'xhi'","duba dxa* gi7xi",s,RLC04;RLC10
-E0344,dudu,du*du*,s,JLC;RLC10;VC17
-E0347,"duuza'",duuza,s,JLC;ND;VP;RLC04;RLC10;VC17
-E0349,"dxiña yaga","dxinya yaga",s,RLC04;RLC10;VC17
-E0351,esclabon,eskla-bo!n,s,RLC10;FSL15
-E0355,"flor de china","flor de chi*na",s,RLC04;RLC10;VC17
-E0354,flordecampu,florrde-ka*mpu,s,FSL15;RLC15;VOT15
-E0356,fresa,fre*sa,s,RGL03;RLC04;RLC10
-E1227,"galaa bato' yaga","ga-laa* ba-to7 yaga",loc,VC17
-E0359,"gamitu gui'xhi'","gami*tu* gi^7xi",s,RGL03;RLC10
-E0945,gardenia,garde*nya,s,RLC04;RLC10;FSL14
-E0365,girasol,jira-so!l,s,RLC04;RLC10
-E0595,"girasol cha'hui'","jira-so!l cha!7wi",s,RLC04;RLC10
-E0596,"girasol gui'xhi'","jira-so!l gi7xi",s,RLC04;RLC10
-E0367,gordolobo,gorrdolo*bo,s,RLC04;RLC10
-E0368,granada,grana*da,s,RLC04;RLC10;RLC14
-E0369,gu,gu,s,EJG;JLC;ND;VP;RGL03;RLC10;RLC4
-E0370,"gu bandaga","gu ba-ndaga",s,RLC10
-E0371,"gu biguitu","gu bi-gitu",s,RLC10
-E0372,"gu cha'hui'","gu cha!7wi",s,RGL03;RLC04;RLC10
-E1145,"gu guchi","gu guchi",s,RLC14
-E0373,"gu muradu","gu mura*du",s,RLC10
-E0374,"gu xiña'","gu zhi-nya*7",s,RLC10
-E0375,"gu yaga","gu yaga",s,EJG;JLC;VP;RGL03;RLC10
-E1216,"gu yu","gu yu",s,VC17
-E0520,"gu'xhu' bido'","gu7xu bi-do7",s,JLC;RLC10
-E0376,"guba gui","guba* gi",s,EJG;JLC;VP;RLC10;VC17
-E0387,"gue'la' ziña","ge7la zinya",s,EJG;ND;VC17
-E0379,"gueere'",geere,s,EJG;JLC;VP;RGL03;RLC04;RLC10
-E0380,"gueere' papaya","geere papa*ya",s,RGL03;RLC04;RLC10;RLC14;VC17
-E0382,"gueeze'",geeze,s,RLC17;VC17
-E1280,"gueeze'",geeze,s,JLC;RLC10;VC17
-E0383,guela,gela,s,EJG;JLC;ND;VP;RLC04;RLC10
-E0384,"guela du","gela du",s,EJG;ND;RLC10;RLC14;VC17
-E1218,"guela duuza'","gela duuza",s,VC17
-E0385,"guela guichu","gela gichu",s,EJG;JLC;RLC10;RLC14
-E1217,"guela niza","gela niza",s,VC17
-E0386,"guela zee","gela zee",s,EJG;JLC;ND;RLC10
-E0388,"guenda bedxe","genda* bedxe",s,EJG;ND
-E0040,"guenda bidxu cha'hui'","genda* bi*dxu* cha!7wi",s,RLC04;RLC10
-E1102,"guenda bidxu dani","genda* bi*dxu* (dani*)",s,FSL12;FSL14
-E0041,"guenda bidxu gui'xhi'","genda* bi*dxu* gi7xi",s,RLC04;RLC10
-E1142,"guenda bidxu ike bere","genda* bi*dxu* (ike) bere",s,FSL14
-E0389,"guenda bidxu nisa","genda* bi*dxu* nisa",s,EJG;ND;VP;RCL10;RLC10;FSL12;RLC14;VOT14
-E1152,"guenda dxiña","genda* dxinya",s,VG17
-E0391,"guenda dxiña gui'xhi'","genda* dxinya gi7xi",s,JLC;RLC10;FSL15
-E0038,"guenda ruguu bini","genda+ r.u-g.uu bi-ni",s,JLC;RLC10;VC17
-E0043,"guenda xunu","genda* zhunu",s,JLC;ND;VP;RLC04;RLC10
-E1180,"guendahuidxe'","genda+ wi*-dxe7*",s,VC17
-E0394,gueza,geza,s,EJG;JLC;VP;RGL03;RLC04;RLC10
-E0465,"gui'ri' bidxi","gi7ri bidxi",s,JLC;VP;RLC10;VC17
-E0467,"gui'ri' ziña","gi7ri zinya",s,JLC;ND;RGL03;FSL14;VC17
-E0481,"gui'xhi'",gi7xi,s,JLC;RLC04;RLC10
-E1230,"gui'xhi' do","gi7xi do7",s,VC17
-E0482,"gui'xhi' mangle","gi7xi ma*ngle",s,RGL03;RLC04;RLC10;VC17
-E0483,"gui'xhi' ro'","gi7xi ro!7",s,RGL03;RLC04;RLC10
-E0396,guibi,gibi,s,JLC;RLC10;VC17
-E0395,"guicha guela","gicha gela",s,EJG;JLC;ND;RLC04;RLC10
-E0398,guichu,gichu,s,EJG;JLC;ND;VP;RLC04;RLC10
-E0399,guidi,"gidi ladi",s,JLC;RLC10
-E0400,"guidi ladi la guitu","gidi ladi la* gi^tu",s,JLC;RLC10
-E0401,"guidi ladi sanjuan","gidi ladi sa-njwa!n",s,RLC04;RLC10
-E0402,"guidi ladi yaga","gidi ladi yaga",s,JLC;RLC10
-E0405,guidxi,gidxi*,s,EJG;ND;VP;RLL14;VC17
-E1274,"guie xuba'","gye zhuba!7",s,VC17
-E0522,"guie'",gye7,s,JLC;RGL03;RLC10
-E0523,"guie' abril","gye7 a-bri!l",s,RLC12;VC17
-E0524,"guie' amapola","(gye7) amapo*la",s,RLC04;RLC10;VC17
-E0567,"guie' arnica","gye7 a*rrni-ka",s,RLC04;RLC10
-E0112,"guie' asusena","(gye7) asuse*na",s,BSL12
-E0525,"guie' bandaga bata","gye7 ba-ndaga bata",s,RLC10
-E0139,"guie' bandera","gye7 bande*ra",s,RLC04;RLC10
-E0526,"guie' batuuba'","gye7 ba-tuuba",s,JLC;RLC10
-E0528,"guie' be'te'","gye7 be7te",s,RLC04;RLC10;VC17
-E0527,"guie' begu","gye7 begu*",s,RLC04;RLC10
-E0529,"guie' bi'chi'","gye7 bi7chi",s,EJG;JLC;ND;VP;RLC10;FSL14;RLC14;FSL15;RLC15
-E1146,"guie' bi'chi' guiigu'","gye7 bi7chi giigu",s,FSL15
-E0530,"guie' bichiisa","gye7 bi-chii*sa*",s,JLC;RLC10
-E1186,"guie' biga raagu'","gye' biga raagu",s,VC17
-E0531,"guie' bigua","(gye7) bi-gwa!",s,EJG;JLC;RLC04;RLC10;FSL14;RLC14;RLL14
-E0532,"guie' biibi","gye7 bii*bi*",s,RLC10;RLC14
-E0068,"guie' biri","gye' bi-ri*",s,EJG;JLC;FSL15;FSL16
-E0533,"guie' bramboyan","gye7 brambo-ya!n",s,RLC04;RLC10;RLC14
-E1177,"guie' cha'chi'","gye7 cha7chi",s,EJG;ND;VP;RLC04;RLC10
-E0537,"guie' cha'chi' gui'xhi'","gye7 cha7chi gi7xi",s,BSL12;FSL15;VOT15
-E1215,"guie' china","gye7 chi*na",s,RLC04;RLC10;VC17
-E0538,"guie' chisme","gye7 chi*sme",s,RLC04;RLC10;FSL14
-E1220,"guie' chita (naxhi)","gye7 chita (naxi)",s,VC17
-E0539,"guie' chuga","gye7 chuga",s,RLC04;RLC10
-E0534,"guie' clabel","gye7 klabe!l",s,FSL12
-E1185,"guie' coros","(gye7) ko-ro!s",s,VC17
-E0541,"guie' daana' cha'hui'","gye7 daana cha!7wi",s,EJG;JLC;VP;RLC04;RCL10;RLC10;FSL14;RLC14;FSL15;VC17
-E0542,"guie' daana' gui'xhi'","gye7 daana gi7xi",s,EJG;JLC;VP;RLC04;RCL10;RLC10;FSL14;RLC14;FSL15
-E0544,"guie' dani","gye7 dani*",s,RLC04;RLC10
-E0104,"guie' de ti rratu","gye7 de+ ti+ rra*tu",s,JLC;RLC04;RLC10
-E0547,"guie' duuza'","gye7 duuza",s,RGL03;RLC10
-E0548,"guie' fitufiu'","(gye7) fi!tu-fi!wu7",s,JLC;RLC05;RLC10;FSL14;RLC14;FSL16
-E0406,"guie' gade","gye7 ga*de*",s,FSL14;RLC14;FSL15
-E1136,"guie' gardenia","gye7 garde*nya",s,RLC14;VC17
-E0550,"guie' guchi","gye7 guchi",s,JLC;RLC04;RLC10;RLC14
-E1265,"guie' guiichi biduaa","gye7 guiichi* bi-dwaa",s,VC17
-E0551,"guie' guiichi gu","gye7 giichi* gu",s,RLC04;RLC10;FSL14
-E0552,"guie' guitu","gye7 gitu",s,RGL03;RLC10
-E0566,"guie' huaxhinni","gye7 wa-xinni",s,JLC;RLC10;RLC14
-E0554,"guie' isora","gye7 i-so*ra",s,RLC04;RLC10;VC17
-E0568,"guie' jamaica","gye7 jama!y-ka",s,RLC04
-E1247,"guie' la'dxido'","gye7 la7dxi=do7",s,VC17
-E0555,"guie' moradu huiini'","gye7 mora*du wiini",s,RLC04;RLC10
-E0557,"guie' ortensia","gye7 orrte*nsya",s,RLC04;RLC10
-E0558,"guie' papaya","gye7 papa*ya",s,RGL03;RLC04;RLC10
-E1104,"guie' quinseañera","gye7 kinseanye*ra",s,RLC14
-E0560,"guie' riele' huadxi","gye7 r.y.elle!' wa-dxi",s,JLC;RLC04;RCL10;RLC10
-E0570,"guie' rrosa de castia","gye7 rro*sa de ka-stya!",s,RLC;RGL03;RLC04;RLC10
-E0561,"guie' sapatu duende","gye7 sapa*tu dwe*nde",s,RGL03;RLC04;RLC10
-E0562,"guie' se' nalase'","gye7 se*7 na-lase!7",s,JLC;RLC04;RLC10;FSL12;FSL15;VOT15
-E0563,"guie' se' naro'ba'","gye7 se*7 na-ro!7ba",s,FSL12;FSL15
-E0571,"guie' stia","gye7 stya!",s,JLC;VP;RGL03;RLC04;RLC10;FSL15;RLC15
-E0408,"guie' stia gui'xhi'","gye7 stya! gi7xi",s,RLC14
-E1188,"guie' te","gye7 te",s,RLC04;RLC10;RLC14;VC17
-E1123,"guie' tiiqui","gye7 tiiki*",s,EJG;JLC;RLC10;VOT15
-E1222,"guie' xquela guidi biniidxi","gye7 x.kela gidi bi-nii*dxi*",s,RGL03;RLC04;RLC10
-E0575,"guie' xuga","gye7 zhuga",s,RLC14
-E1155,"guie' xuuba'","gye7 zhuuba",s,EJG;JLC;ND;VP;RLC04;FSL15;RLC15;VC15;VOT15
-E1166,"guie' yaana'","gye7 yaana",s,RLC14;FSL15;RLC15;VOT15
-E0577,"guie' zinya","gye7 zinya",s,EJG;RLC04;RLC10;FSL15;RLC15;VOT15
-E0411,guiichi,giichi*,s,JLC;ND;RGL03;RLC04;RLC10
-E0413,"guiichi aguxa'","giichi* aguzha!7",s,JLC;RLC04;RLC10;FSL14
-E0415,"guiichi batuuba'","giichi* ba-tuuba",s,JLC;RLC10;RLC14
-E0422,"guiichi bidu'","giichi* bidu!7",s,EJG;JLC;ND;RLC04;RLC10;FSL12
-E0425,"guiichi biga raagu'","giichi* biga raagu",s,JLC;RLC14
-E0429,"guiichi bihui","giichi* biwi",s,FSL12
-E0426,"guiichi bii","giichi* bii*",s,JLC;RLC10
-E0428,"guiichi biruba","giichi* bi-ru*ba*",s,EJG;JLC;ND;VP;RLC10
-E0430,"guiichi bixa'","giichi* bizha*7",s,EJG;JLC;ND;RLC10;FSL12;FSL14
-E1126,"guiichi bixa' burra","giichi* bizha*7 bu*rra",s,FSL14;FSL17
-E0431,"guiichi bixa' mani'","giichi* bi-zha*7 mani!7",s,JLC;FSL14
-E0432,"guiichi bizaari'","giichi* bi-zaari",s,ND;VP;FSL14
-E0433,"guiichi bupu","giichi* bupu",s,FSL15
-E0434,"guiichi buu","giichi* buu*",s,RLC04;RLC10;FSL12;FSL14;VOT15;FSL16;FSL17
-E0437,"guiichi dxita","giichi* dxita",s,RLC10;BSL12;FSL14;FSL15
-E0436,"guiichi dxiña","giichi* dxinya*",s,RLC10;FSL12
-E0438,"guiichi gu moradu","giichi* gu mora*du",s,FSL14;FSL15;VOT15
-E1144,"guiichi gu quichi'","giichi* gu kichi!7",s,FSL14;FSL15;VOT15
-E0439,"guiichi gueda","giichi* geda",s,RGL03;RLC10;FSL15
-E0442,"guiichi laya bi'cu'","giichi* laya (bi7ku)",s,RLC04;RLC10;FSL15
-E0443,"guiichi luba'","giichi* lu-ba7 DEN:RLC10,MLC14",s,FSL14
-E0444,"guiichi lui'","giichi* lwi*7",s,RLC10
-E0445,"guiichi ndani","(yaga) giichi* ndani",s,RLC10;FSL14;RLC14;FSL15;RLC15
-E0446,"guiichi tachi","giichi* ta*chi",s,FSL15;VOT15
-E0447,"guiichi xahui","giichi* zha*wi*",s,JLC;RLC10;FSL15
-E0325,"guiichi xhiidi","giichi* xiidi",s,EJG;JLC;ND;RLC10;FSL12;FSL14;RLC14;FSL15
-E0450,"guiichi xumi","giichi* zhu*mi*",s,JLC;RLC10;FSL12;VC17
-E0451,"guiichi yaa","giichi* yaa",s,FSL12;RLC14;FSL15;RLC15
-E0452,"guiichi yaase'","giichi* yaase",s,EJG;JLC;RLC10;FSL15
-E0453,"guiichi yonde'","giichi* yonde!7",s,EJG;RGL03;RLC04;RLC10;VC17
-E1223,"guiinya' bidxi za","giinya bidxi za",s,VC17
-E0461,"guiinya' xigundu'","giinya zhi+ gundu!7",s,EJG;RGL03;RCL10;RLC10;VC17
-E0454,"guiiña'",giinya,s,JLC;ND;VP;RGL03;RLC04;RLC10
-E0463,"guiiña' bidxi","giinya bidxi",s,RLC14
-E0456,"guiiña' chilianchu","(giinya) chilya*nchu",s,RGL03;RLC10
-E0455,"guiiña' curadu","giinya kura*du",s,RGL03;RLC10
-E0457,"guiiña' dxuladi","giinya dxu-la!di",s,RGL03;RLC10
-E0459,"guiiña' huajiyu","(giinya) waji*yu",s,RGL03;RLC10
-E0592,"guiiña' jalapeñu","guiinya jalape*nyu",s,RGL03;RLC10
-E0458,"guiiña' so'pe'","giinya so!7pe",s,RGL03
-E0460,"guiiña' xcuuchu'","(giinya) x.kuu*chu*",s,RLC04;RLC10
-E0462,"guiiña' yaa","giinya yaa",s,JLC;RLC10
-E0468,guitu,gitu,s,EJG;JLC;ND;VP;RLC04;RLC10
-E0469,"guitu bidxi","gitu bidxi",s,JLC;RLC10
-E0470,"guitu biziña","gitu bi-zinya*",s,EJG;ND
-E0472,"guitu chuga","gitu chuga",s,JLC;RLC10;VC17
-E0473,"guitu dxiña","gitu dxinya",s,EJG;ND;RLC10
-E0474,"guitu huiini'","gitu wiini",s,RGL03;RLC04;RLC10;VC17
-E1121,"guitu nisa","gitu nisa",s,RLC14
-E0475,"guitu ro'","gitu ro!7",s,RLC04;RLC10
-E0477,"guitu xembe'","gitu zhembe!7",s,EJG;JLC;ND;VP;RLC10;RLC14;VOT14;VC17
-E1229,"guitu xiga",gitu=zhiga,s,ND;VC17
-E0479,"guitu yanni","gitu ya!nni",s,JLC;RGL03;RLC10;FSL15
-E0480,"guitu yu'la","gitu yu!7la",s,RGL03;RLC04;RLC10
-E0484,guixi,gizhi,s,EJG;JLC;VP;RGL03;RLC04;RLC10;VC17
-E1135,"guixi bandui'","gizhi ba-ndwi*7",s,FSL14
-E0487,"guixi bataa","gizhi ba-taa*",s,JLC;RGL03;RLC10;VC17
-E0488,"guixi beede","gizhi beede*",s,EJG;JLC;RLC10
-E0489,"guixi beu","gizhi bewu*",s,JLC;VP;RLC10;FSL15
-E0492,"guixi bi'cu'","gizhi bi7ku",s,FSL15
-E0494,"guixi donda","gizhi donda",s,EJG;JLC;VP;RLC10;FSL14;RLC14;FSL15
-E0495,"guixi doo","gizhi doo",s,FSL14
-E0496,"guixi ga'","gizhi ga!7",s,VP;RLC10
-E0486,"guixi guba'ya'","gizhi (g)u-ba!7ya",s,RLC10;FSL14;FSL17
-E0485,"guixi guendaro","gizhi genda+ r.o",s,RLC04;RLC10
-E0498,"guixi laguna","gizhi lagu*na",s,FSL12
-E0499,"guixi nisa","gizhi nisa",s,RGL03;RLC04;RLC10
-E0500,"guixi nite","gizhi nite",s,JLC;RGL03;RLC10
-E1191,"guixi niñu","gizhi ni*nyu",s,VC17
-E0501,"guixi para gaze ne","gizhi para g.a!ze ne*",s,RLC04;RLC10
-E0053,"guixi paral","(gizhi) pa-ra!l",s,RLC10
-E0503,"guixi ra chupa","gizhi ra! chu*pa*",s,JLC;RLC10;FSL12;FSL15;FSL16
-E0055,"guixi sacaton","(gizhi) saka-to!n",s,RLC10
-E1070,"guixi tini","gizhi tini",s,FSL15
-E1169,"guixi xiaa","gizhi zhyaa*",s,FSL15
-E0509,"guixi yaa","gizhi yaa",s,VP;RLC10
-E0508,"guixi yanu","gizhi ya*nu",s,RLC10
-E0512,"guixi zee","gizhi zee",s,EJG;RLC10;RLC14
-E1071,"guixi zidi laguna","gizhi zidi lagu*na",s,FSL14;RLC14
-E0515,"gunixhi'",gu-nixi!7,s,EJG;JLC;VP;RLC10;RLC14;VC17
-E0516,"gunixhi' de guba gui","gu-nixi!' de+ gu-ba* gi^",s,JLC;RLC10
-E0517,"guñe",gunye,s,EJG;ND;VC17
-E0580,huaje,wa*je,s,FSL15
-E1243,"huanabana cha'hui'","wana*bana cha!7wi",s,VC17
-E0583,"huanabana gui'xhi'","wana*bana gi7xi",s,BSL12
-E0579,huaya,wa*ya,s,VOT12
-E0584,huayaba,waya*ba,s,RLC10
-E1103,"huele de noche",welede-no*che,s,FSL13
-E0587,"igu'",igu!7,s,RLC04;RLC10;RLC14
-E1087,inchahuebo,inchawe*bu,s,FSL14;FSL15
-E0588,ineldu,ine*ldu,s,RLC04;RLC10;VC17
-E0589,"ique bandaga","ike ba-ndaga",s,RGL03;RLC04;RLC10;VC17
-E1225,"ique bato' yaga","ike ba-to7 yaga",s,VC17
-E0590,"ique yaga","ike yaga",s,RGL03;RLC10
-E0593,jasmin,ja-smi!n,s,RLC04;RLC10
-E0603,"jñaa bi","j.nyaa* bi",s,FSL12
-E1098,"jñaa nisa","j.nyaa* nisa",s,FSL13
-E0514,"la bere'","la* bere!7",s,EJG;JLC;ND;VP;RLC10;FSL14;FSL15;RLC15;VOT15
-E0605,"la bere' guie","la* bere!7 gye",s,RLC10
-E0606,"la gu","la* gu*",s,FSL12;FSL15;RLC15
-E1190,"la'",la7,s,VC17
-E0613,"la'dxi'",la7dxi,s,ND;RGL03;RLC10
-E1250,"la'dxi' nite","la7dxi nite",s,RGL03;FSL14;RLC14
-E0615,"la'dxido' guie'","la7dxi=do7 gye7",s,RGL03;FSL14;RLC14
-E0616,"la'dxido' yaga","la7dxi=do7 yaga",s,RGL03;RLC10
-E0620,"la'pa' che le'cu'","la7pa che!+ le7ku",s,JLC;RLC04;RLC10;BSL12;FSL12;FSL15;VOT15
-E0622,"la'pa' guiichi","la7pa giichi*",s,RLC10
-E0623,"la'sa'",la7sa,s,VP;RLC10
-E0624,"la'sa' bere","la7sa bere",s,RGL03;FSL15
-E0625,"la'sa' biduaa","la7sa bi-dwaa",s,RGL03;RLC10;VC17
-E0626,"la'sa' bidxiña","la7sa bi-dxinya*",s,JLC
-E0627,"la'sa' yu","la7sa yu",s,JLC;VP;RLC10;CS12
-E0628,"la'sa' yu dani","la7sa yu dani*",s,JLC;FSL14
-E0631,"la'sa' yu muradu","la7sa yu mora*du",s,FSL12
-E0629,"la'sa' yu te","la7sa yu te",s,VOT12
-E0610,labaplatu,labapla*tu,s,RLC04;RLC10;BSL12;FSL12;VOT14;FSL15;VOT15;FSL16
-E0633,laurel,law-re!l,s,RLC04;RLC10
-E0635,"lechuga gui'xhi'","lechu*ga gi7xi",s,BSL12
-E0636,lenteja,lente*ja,s,RGL03;RLC04;RLC10;VC17
-E0637,lima,li*ma,s,RLC04;RLC10;VC17
-E0642,"limon dulse",limondu*lse,s,RLC04;RLC10
-E0639,"limon huiini'","li-mo!n wiini",s,RLC04;RLC10
-E0640,"limon ngola","li-mo!n ngo*la",s,RLC04;RLC10
-E0641,"limon ro'","li-mo!n ro!7",s,RLC04;RLC10
-E0643,limun,li-mu!n,s,JLC;RLC04;RLC10
-E0644,lindatarde,lindata*rrde,s,RLC04;RLC10
-E0645,liriu,li*ryu,s,JLC;RLC10
-E1208,"lu bandaga","lu ba-ndaga",s,VC17
-E0648,"lu tui'","lu twi*7",s,RGL03;RLC04;RLC10
-E0650,"luba'",lu-ba7,s,EJG;JLC;ND;VP;RGL03;RLC04;RLC10
-E1079,"luba' alambre","lu-ba7 ala*mbre",s,FSL12
-E0653,"luba' be'te'","lu-ba7 be7te",s,JLC;RLC10;RLC14;VOT14;FSL15;RLC15;VOT15
-E0651,"luba' beenda'","lu-ba7 beenda",s,JLC;RLC10
-E0057,"luba' bizaa","lu-ba7 bi-zaa",s,JLC;RLC10;RLC14
-E0056,"luba' biña'","(lu-ba7) bi-nya*7",s,JLC;RLC10;RLC14;VC17
-E1084,"luba' chorisu","lu-ba7 chori*su",s,FSL13;RLC14
-E0655,"luba' estropaju","lu-ba7 estropa*ju",s,FSL13
-E0656,"luba' golondrina","(lu-ba7) golondri*na",s,RGL03;RLC04;RLC10;FSL15;RLC15;VOT15;FSL16
-E0657,"luba' gu","lu-ba7 gu",s,JLC;RGL03;RLC10
-E0652,"luba' guie' begu","(lu-ba7) gye7 begu*",s,JLC;RLC10;FSL15
-E0058,"luba' guitu","lu-ba7 gitu",s,JLC;RLC10
-E0659,"luba' guitu xembe'","lu-ba7 gitu zhembe!7",s,JLC;RLC10;FSL14;RLC14;VOT14
-E0059,"luba' jicama","lu-ba7 ji*ka-ma",s,JLC;RLC10
-E0060,"luba' melon","lu-ba7 me-lo!n",s,JLC;RLC10
-E0662,"luba' nisa","lu-ba7 j.nyaa* nisa",s,FSL14
-E0061,"luba' pepinu","lu-ba7 pepi*nu",s,JLC;RLC10
-E1081,"luba' quichi'","lu-ba7 kichi!7",s,FSL14
-E0664,"luba' rii","lu-ba7 rii",s,JLC;FSL14
-E1078,"luba' tini","lu-ba7 tini",s,FSL14
-E0667,"luba' uba","lu-ba7 u*ba",s,JLC;RLC10
-E0063,"luba' xandie","lu-ba7 zha-ndye!",s,JLC;RLC10
-E0064,"luba' xcu'du'","(lu-ba7) x.ku!7du ~ x.ku7du",s,JLC;RLC04;RLC10
-E0065,"luba' yape","lu-ba7 yape",s,JLC;RLC10
-E0670,"ludxi baca","ludxi* ba*ka",s,JLC;VC17
-E0649,luxu,luzhu*,s,ND;FSL14
-E0096,"madu xhcu'","madu! xcu'",s,EJG;ND;VC17
-E0675,maguey,ma-ge!y,s,RLC04;RLC10
-E1114,"mala madre",malama*dre,s,FSL14
-E0677,mandarina,mandari*na,s,RLC04;RLC10
-E0673,mango,ma*ngo,s,RLC04;RLC10
-E0674,"mango ataulfu","ma*ngo atawu!lfu",s,FSL12
-E0678,"mangu byuxe","ma*ngu byu*zhe*",s,BSL12
-E0679,"mangu piña","ma*ngu pi*nya",s,BSL12;VOT12
-E1249,"mangu yaa","ma*ngu yaa",s,VC17
-E0682,mansana,mansa*na,s,JLC;RGL03;RLC04;RLC10
-E0683,mansania,mansa-nya!,s,JLC;RGL03;RLC04;RLC10
-E1112,mantu,ma*ntu,s,FSL14;RLC14
-E0681,"manu de lion","ma*nu de+ lyo!n",s,RLC04;RLC10
-E0685,marabia,mara-bya!,s,CT12;RLL14
-E0686,matabuey,mata-bwe!y,s,RLC04;RLC10;FSL12
-E1113,"mañanita",manyani*ta,s,FSL14
-E0688,melon,me-lo!n,s,RGL03;RLC10
-E0689,"melon cha'hui'","me-lo!n cha!7wi",s,RLC04;RLC10;RLC14;VOT14
-E0690,"melon gui'xhi'","me-lo!n gi7xi",s,RLC10
-E0691,"melon huajaca","me-lo!n waja*ka",s,RLC10
-E0692,mota,mo*ta,s,RLC04;RLC10
-E0693,mudu,mudu*,s,JLC;ND;RGL03;RLC10
-E0695,mudubina,mudubi*na,s,ND;RGL03;RLC10;FSL15;RLC15;VOT15
-E1248,muni,muni!,s,JLC;RLC10
-E0696,"na' yaga","na*7 yaga",s,RLC04;VC17
-E0698,nanchi,na*nchi,s,JLC
-E0699,"nanchi chaahui'","na*nchi chaawi",s,VOT12
-E0700,"nanchi gui'xhi'","na*nchi gi7xi",s,VP;RGL03;RLC10;FSL12
-E0701,"nanchi lula'","na*nchi lu-la!7",s,JLC;RLC04;RLC10
-E0702,naranja,nara*nja,s,RLC04;RLC10
-E1316,nareela,na-reela*,a,EJG;VP;RLC04
-E0794,"narru zaa","(na-)rru zaa*",a,JLC
-E0703,"nateede'",na-teede*,a,JLC;RLC10
-E0843,naxada,(na-)zha!da,a,JLC;ND;RLC10
-E0337,"naziña",na-zinya,a,RGL03;RLC10;VC17
-E0709,"ndaani' nite","ndaani nite",s,RGL03;FSL14;RLC14
-E0707,"ndaani' yaga","ndaani yaga",s,RGL03;RLC10
-E0708,ndaga,ndaga,s,EJG;ND;RLC10
-E1214,ndu,ndu,s,EJG;VC17
-E0712,"ngaaxi'",ngaazhi,s,EJG;RGL03;RLC10;VC17
-E1253,"ni rigu'ba guixi","ni r.i-g.u7ba gizhi",R,JLC;RLC10
-E0714,"ni rucui guixi","ni r.u-kwi gizhi",R,JLC;RLC10
-E0717,niidxi,niidxi*,s,EJG;VP;RLC10
-E0718,"niidxi huada'","niidxi* wada!7",s,JLC;RLC10
-E0719,"nisa arnica","nisa a*rrni-ka",s,RGL03;RLC04;RLC10
-E1256,"nisa biga raagu'","nisa biga raagu",s,VC17
-E0720,"nisa canela","nisa kane*la",s,RLC04
-E0721,"nisa coco","nisa ko*ko",s,RLC04
-E1254,"nisa dxu'ni' arnica","nisa dxu!7ni a*rrni-ka",s,RGL03;VC17
-E1196,"nisa dxu'ni' xuba'","nisa dxu!7ni zhuba!7",s,VC17
-E0723,"nisa mansania","nisa mansa-nya!",s,RLC04;RLC10
-E1255,"nisa naga'nda'","nisa na-ga!7nda",s,VC17
-E0728,nite,nite,s,EJG;JLC;ND;VP;RLC04;RLC10
-E0726,"nite bere'","nite be-re*7",s,EJG;JLC;ND;VP;RLC10;RLC14;VOT14
-E0727,"nite guela","nite gela",s,EJG;JLC;ND;RLC04;RLC10
-E1257,"nite guie'","nite gye7",s,VC17
-E0066,"nite paral","(nite) pa-ra!l",s,RLC10
-E0097,"nite yaza","nite yaza",s,EJG;ND;VC17
-E0729,niza,niza,s,EJG;JLC;ND;VP;RLC10
-E0730,"niza huayachi","niza wa-ya!chi",s,RLC10;VC17
-E0732,nochebuena,nochebwe*na,s,RLC04;RLC10
-E0733,noni,no*ni,s,RLC12
-E1109,nube,nu*be,s,RLC14
-E0734,"nube gui'xhi'","nu*be gi7xi",s,FSL12;RLC12
-E0739,ojasen,oja-se!n,s,VOT12
-E0740,oregano,ore*gano,s,RLC04;RLC10
-E0301,orqueta,orke*ta,s,RGL03;RLC04;RLC10
-E1085,orquidia,orr-ki*dya,s,FSL14
-E1089,"palo blanco",palobla*nku,s,FSL14
-E1150,"palo mulato","palo mula*to",s,FSL15
-E0741,papa,pa*pa,s,JLC;RGL03;RLC10
-E0745,papause,papa!wu-se,s,JLC;RLC04;RLC10
-E0742,papaya,papa*ya,s,RGL03;RLC04;RLC10;RLC14
-E0749,paraisu,"parayi*su ~ para!ysu",s,JLC;RLC04;RLC10;RLC12;VOT12;FSL15;RLC15
-E0747,"parawa xti' bidxi'","para*wa x.ti*' bi-dxi!7",s,RLC04;RLC10
-E0748,parawita,parawi*ta,s,RLC04;RLC10
-E0750,"pe'pe'",pe7pe,s,JLC;ND;RLC10
-E1236,"pe'pe' bacua'","pe7pe ba-kwa*7",s,VC17
-E0752,"pe'pe' rini","pe7pe ri*ni",s,JLC;RLC10;FSL12;VC12;RLC14
-E0753,"pe'pe' rini duubi'","pe7pe (ri*ni) duubi",s,FSL12
-E0754,"pepinu gui'xhi'","pepi*nu gi7xi",s,RLC10
-E0755,"pepinu huiini'","pepi*nu wiini",s,JLC;RLC10
-E0760,"pichiinchi yu","pi-chii*nchi* yu",s,RGL03;RLC10;ATR12
-E0764,pimienta,pimye*nta,s,RLC04;RLC10
-E0763,"pimienta gui'xhi'","pimye*nta gi7xi",s,FSL13
-E0756,pinu,pi*nu,s,RLC04;RLC10
-E0757,"pitu nisiaaba'","pi!tu nis=y.aaba",s,JLC;RLC10
-E0772,"punta bandaga","pu*nta ba-ndaga",s,RGL03;RLC04;RLC10
-E1284,ra,-a,v:i,EJG;VP;RLC07
-E1294,raana,-aana,vB:t,EJG;JLC;ND;VP;RLC07
-E1295,raande,-aande,vA:i,VC17
-E1289,"raca curar",-aka=ku-ra!r,vC:i,JLC;RLC07;RLC11
-E1288,"raca guela",-aka=gela,vC:i,EJG;RLC07
-E1287,"raca niza","-aka # niza",vC:i,RLC07
-E1286,"rachexqui'",-ache=x.ki7,vC:i,EJG;JLC
-E1285,rachendu,-ache=ndu,vC:i,EJG;ND;RLC04;RLC07;VC17
-E1290,rala,-alla,vC:i,EJG;JLC;ND;VP;RGL03;RLC04;RLC07
-E1291,"rala zee",-alla=zee,vC:i,EJG;RGL03
-E0783,"rama huiini'","rra*ma wiini",s,RGL03;RLC04;RLC10
-E1293,"raxha de xcu","-axa # de+ x.ku",vC:t,JLC
-E1292,"re gaana","AND+ g.aana*","v and",EJG
-E1347,"riaande'",-y.aande,vA:i,JLC;VP
-E1343,"riaba beenda'",-y.aba=beenda,vA:i,JLC;RLC07
-E1344,"riaba bi'xu'",-y.aba=bi7xu,vA:i,EJG;RLC07
-E1345,"riacha xuba'",-yacha=zhuba!7,vA:i,EJG
-E1346,"riale'",-y.alle!7,vA:i,EJG;ND;VP;RLC09
-E1296,ribagu,-b.agu,vD:t,EJG;JLC;VP
-E1297,"ribee biidxi'","-b.ee* # biidxi",vD:t,""
-E1299,"ribee biitu",-b.ee*=biitu*,vD,JLC;RGL03
-E0150,"ribee du","-b.ee* # du",vD:t,JLC;RLC10
-E1298,"ribee guela","-b.ee* # gela",vD:t,JLC;RGL03
-E1269,"ribee xcui","-b.ee* # x.kwi",vD:t,VC17
-E1300,"ribee ya",-b.ee*=ya,vD:t,EJG
-E1301,"ribi'xu'",-bi7xu,vA,EJG;ND;VP
-E1313,"rica be",-ka=be,vBirr:i,EJG;RLC07
-E1312,"rica bi'xu'","-ka # bi7xu",vBirr:i,EJG;RLC07
-E0035,"rica guie'",-ka=gye7,vBirr:i,JLC;RLC10;VC17
-E1315,"rica yu",-ka=yu,vBirr:i,JLC;RLC07
-E1302,"richeza layu","-cheza # la=yu",vB:caus,EJG;JLC;ND;VP
-E1303,"ridi'di' ya",-di7di=ya,vC:i,EJG;RLC17
-E1304,"ridxaaga' niza","-dxaaga* # niza",vA:i,EJG;VC17
-E0776,riga,riga,s,VP;RLC10
-E1305,"riga'",-ga7,vA,JLC;ND;VP;RLC17
-E1307,"rigui'ba' biidxi'",-g.i7ba=biidxi,vD:i,EJG;RLC07;RLC17
-E1271,"riguiche xiiñi'",-g.iche=zhiinyi,vD,VC17
-E1306,"riguiche xqui'",-g.iche=x.ki7,vD:t,EJG;JLC;RGL03;RLC07
-E1308,"riguiibi'  xuba'","-g.iibi # zhuba!7",vD:t,JLC;RLC17
-E1310,"riguu biní","-g.uu # bi-ni",vD:t,EJG;JLC;VP
-E1311,"riguundu'",-guundu,vA:i,EJG;JLC;VP;RLC04
-E1319,"rindaa layu","-ndaa* # la=yu",vB:caus,JLC;RLC07;RLC17
-E1317,"rindadi' niza","-ndadi!7 # niza",vB:caus,EJG;JLC;VP
-E1318,rindani,-ndani,vB:i,EJG;JLC;VP;RGL03
-E0036,"riree mudu",-r.ee=mudu*,vA:i,VP;RLC14
-E1320,"rireeche cuaananaxhi","-reeche* # kwaana=naxi",vA:caus,EJG
-E1279,"riuudxu'",-y.uudxu,vA:i,RLC04
-E1348,"riuundu'",-y.uundu,vA:i,JLC
-E1342,rixhii,-xii,vA:i,EJG;ND
-E1349,"rixuuba' niza","-zhuuba # niza",vA~C:t,EJG;JLC;VP;RGL03;RLC04
-E0779,rosieda,rrosye-da!,s,AV12
-E0780,rrabano,rra*ba-no,s,RGL03;RLC10
-E0781,rrama,rra*ma,s,RGL03;RLC04;RLC10
-E0785,rrepoyo,rrepo*yo,s,JLC;RLC10
-E0786,rroble,rro*ble,s,RLC04;RLC10
-E0791,rromeru,rrome*ru,s,RLC04;RLC10
-E0789,"rrosa clabel","rro*sa kla-be!l",s,RLC04;RLC10
-E0790,"rrosa de castia","rro*sa de ka-stya!",s,RGL03;RLC04;RLC10
-E0792,rruda,rru*da,s,JLC;RGL03;RLC04;RLC10
-E0795,"ruaa bandaga","rwaa ba-ndaga",s,RGL03;RLC10;VC17
-E1326,"rucaa gixi","-u-kaa # gizhi",vA:caus,EJG
-E1270,ruchuxhi,-u-chuxi*,vA:caus,VC17
-E1321,"ruchuxi niza","-u-chuxi* # niza",vA:caus,RLC04
-E1322,"rudxiiba biní","-u-dx.iiba # bi-ni",vA:caus,JLC
-E1323,"rugu'ba' geza","-u-g.u7ba # geza",vA:caus,EJG
-E1324,"ruguu gu'xu'","-u-g.uu gu7xu",vA:caus,RLC04
-E1325,"ruguu ya",-u-g.uu=ya,vA:caus,""
-E1328,"runi xuba'","-uni # zhuba!7",vA,EJG;JLC
-E1327,"rucui gixi","-u-kw.i # gizhi",vA:caus,JLC;RLC09;VC17
-E1309,"ruquiiba'",-u-k.iiba,vA:caus,""
-E1329,"rusiga'",-u-si-ga!7,vA:caus,JLC;RLC09
-E1330,"rusiguundu'",-u-si-guundu,vA:caus,EJG;JLC;VP;RLC09
-E1331,rusiteede,-u-si-teede*,vA:caus,EJG;ND;RLC09
-E1339,"rusiu'dxu'",-u-s.y.u7dxu,vA:caus,EJG;JLC;VP;RLC09
-E1332,"rutopa yaga","-u-topa* # yaga",vA:caus,EJG
-E1340,"ruutu'",-uutu,vA:t,EJG;JLC;ND;VP;RGL03;RLC09
-E1333,"ruzaande' xuba' niyaa","-u-zaande # zhuba!7 ni-yaa*",vA:caus,EJG;JLC;RLC09
-E1335,"ruzaande' zhu-baande'","-u-z.aande zhu-b=a!ande",vA:caus,EJG
-E1334,"ruzaande' ñe yaa","-u-zaande nye* yaa",vA:caus,EJG;RLC09
-E1336,"ruzeechu' gixi","-u-z.eechu # gizhi",vA:caus,VC17
-E0797,"sa gue'la'","sa! ge7la",s,FSL12
-E0804,safiate,sa-fya*te,s,RLC04;RLC10
-E0803,safras,sa-fra!s,s,RLC04;RLC10
-E0805,salbarial,salba-rya!l,s,CS12
-E1101,samanina,samani*na,s,FSL14;RLC14
-E0806,"san juan",san-jwa!n,s,FSL14;RLC14
-E1088,sana,sana,s,FSL14
-E0808,"sapa ndu","sapa ndu",s,EJG;JLC;ND;VP;RGL03;RLC07;RLC10
-E0809,"sapatu duende","sapa*tu dwe*nde",s,FSL13
-E1128,sapotiu,sapo-tyu!,s,FSL13
-E1176,seboya,sebo*ya,s,JLC;RLC10
-E1263,"seboya guixi","sebo*ya gixi",s,VC17
-E0812,"seboya moradu","sebo*ya mora*du",s,RLC04;RLC10
-E0811,"seboya nisa","sebo*ya nisa",s,FSL14
-E0810,sedru,se*dru,s,JLC;RLC04;RLC10
-E1192,semia,se-mya!,s,VC17
-E1111,seresa,sere*sa,s,FSL13
-E0821,siemprebiba,syemprebi*ba,s,RLC04;RLC10
-E0816,silantru,sila*ntru,s,RGL03;RLC10
-E0358,sinconegritos,sinkonegri*tos,s,JLC;FSL14
-E1213,sinta,si*nta,s,VC17
-E0818,sorgo,so*rgo,s,JLC;RLC10
-E0822,"taangu ta beela","taa*ngu* ta! bee*lla*",s,JLC;RLC10;FSL12;RLC12;VOT12
-E1276,"taberna'",tabe-rrna!7,s,VC17
-E1073,tamarindiu,tamari-ndyu!,s,FSL14
-E0824,tamarindu,tamari*ndu,s,JLC;RLC10
-E0825,tamburete,ta-mbu!+rete,s,JLC;RGL03
-E1080,"tau cuuni","tawu!7 kuuni*",s,JLC;RLC10;FSL12;FSL14
-E1067,"te cimarron","te! sima-rro*n",s,FSL14
-E0829,"te limon","te! li-mo!n",s,JLC;RLC04
-E0830,teede,tee*de*,s,JLC;RLC10
-E0832,teresita,teresi*ta,s,RLC04;RLC10
-E0835,"ti'xhi yaga","ti7xi yaga",s,JLC;RLC10;VC17
-E0833,tini,tini,s,JLC
-E1266,"trompi'pi'",tro-mpi!7pi,s,VC17
-E0837,"trompo'po'",tro-mpo!7po,s,EJG;JLC;ND;VP;RLC07;RLC10;FSL14;RLC14;RLL14
-E0839,tulipan,tuli-pa!n,s,RLC04;RLC10;CS12
-E0840,"tulipan gui'xhi'","tulipa!n gi7xi",s,BSL12;FSL12
-E0838,tule,tu*lle,s,JLC;RGL03;RLC10;FSL12;VC17
-E1207,"xa'na' bandaga","zha7na ba-ndaga",s,VC17
-E0844,"xa'na' guie'","zha7na gye7",s,RGL03;RLC04;RLC10
-E0845,xandie,zha-ndye!,s,EJG;VP;RGL03;RLC10
-E0852,"xcancha yaga","x.kaa*ncha* yaga",s,JLC;RLC10;RLC14;VC17
-E0853,"xcola beenda'","x.ko*lla beenda",s,JLC;RLC10
-E0855,"xcola ziña","x.ko*lla zinya",s,RGL03;RLC04;RLC10
-E0858,xcu,x.ku,s,EJG;VP;RGL03;RLC04;RLC10
-E0859,"xcu be'te'","x.ku be7te",s,JLC;FSL12;RLC14;VOT14;FSL15;RLC15;VOT15
-E0861,"xcu cue' yaga","x.ku kwe7 yaga",s,RGL03;RLC04;RLC10
-E0862,"xcu guitu xembe'","x.ku gitu zhembe!7",s,JLC
-E0863,"xcu huiini'","x.ku wiini",s,RGL03;RLC04;RLC10
-E0864,"xcu mayor","x.ku ma-yo!rr",s,RGL03;RLC04;RLC10
-E0865,"xcu nite","x.ku nite",s,JLC;RLC10
-E0867,"xcu ziña","x.ku zinya",s,JLC;RLC10
-E0883,"xcuaana'",x.kwana!7,s,RLC10;VC17
-E0875,"xcuaana' bata","x.kwa(a)na bata",s,JLC;VP;VC17
-E0876,"xcuaana' be'za yaga","x.kwaana be'za yaga",s,JLC;RLC10;RLC14
-E0877,"xcuaana' bi'cu' yu'ba'","x.kwaana bi7ku (yu!7ba)",s,EJG;JLC;ND;RLC10;FSL15
-E0878,"xcuaana' biichi","x.kwaana biichi*",s,EJG;RLC10;FSL12;RLC14;FSL15
-E0882,"xcuaana' gui'xhi'","x.kwaana gi7xi",s,EJG;RLC10;VC17
-E0880,"xcuaana' guiyu","x.kwaana gi!yu",s,FSL13
-E0884,xcui,x.kwi,s,JLC;VC17
-E0871,xcuuchi,x.kuuchi*,s,EJG;JLC;VP;RGL03;RLC04;RLC10;RLC14;VOT14;VC17
-E0847,"xeedxe'","zheedxe ~ zheedxe wiini",s,EJG;JLC;VP;RLC04;RLC10;FSL12;FSL17
-E0851,"xhaga la","xaga! la*",s,EJG;JLC;ND;VP;RLC10;FSL14
-E0886,"xhidxi huada'","x.zhidxi wada!7",s,RLC10;BSL12;FSL12;VOT12
-E1096,"xhidxiña","xi dxi*nya*",s,FSL14
-E0909,"xhtuza niñu","x.tuuza ni*nyu",s,RLC04;RLC10;FSL14;VC17
-E1051,xiaa,zhyaa*,s,EJG;JLC;ND;VP;RGL03;RLC10
-E1052,"xiaa tule","zhyaa* tu*lle",s,RGL03;RLC10
-E0913,xiga,zhiga,s,EJG;JLC;VP;RLC04;RLC10
-E0914,"xiga ba","zhiga ba",s,EJG;JLC;VP;RLC10
-E0915,"xiga be","zhiga be",s,EJG;JLC;VP;RLC10;RLC14;VC17
-E1252,"xiga bidxaxa","zhiga bi-dxa*dxa*",s,VC17
-E1259,"xiga bizunu","zhiga bi-zunu",s,VC17
-E0916,"xiga giiru'","zhiga giiru",s,JLC;RLC10
-E0917,"xiga gueta","zhiga geta",s,JLC;RLC10;VOT14
-E0711,"xiga ndo'pa'","(zhiga) ndo!7pa",s,EJG;VP;RLC10;RLC14;VOT14;VC17
-E0920,"xiiñi'",zhiinyi,s,JLC;RGL03;RLC10
-E0921,"xiiñi' biduaa","zhiinyi bi-dwaa",s,RGL03;RLC04;RLC10;VC17
-E0924,"xiiñi' nisa","zhiinyi nisa",s,JLC;VC17
-E0598,"xla'sa' luba'","x.la7sa lu-ba7",s,FSL14
-E0597,"xlasa bizaa","x.laza bi-zaa",s,JLC;RLC10
-E1023,xlaza,j.laza,s,JLC;RLC10;FSL14
-E0599,"xlo'mo' ziña","j.lo!7mo zinya",s,RLC10
-E1024,xluxu,j.luzhu,s,ND;VP;RLC10
-E0601,"xnisa cuananaxhi","j.nisa kwaana=naxi",s,JLC;RLC10
-E0602,"xnisa nite","j.nisa nite",s,JLC;RLC10;VC17
-E1137,xolo,zhollo,s,EJG;JLC;RLC04;RLC10;ATR14;RLC14;VOT14;FSL15;VOT15
-E0890,xpata,x.pata,s,ND;VP;RLC10;VC17
-E0146,"xpata ziña","x.pata zinya",s,EJG;ND;RLC10;VOT14;VC17
-E0893,"xqui' baca","x.ki' ba*ka",s,JLC;RLC10
-E0067,"xquicha na ahuela","(x.)gicha (na!) (a)we*la",s,JLC;RLC10;FSL14;VC17
-E1194,"xquie' bi'cu'","x.kye7 bi7ku",s,VC17
-E0900,"xquixhi' mani'","x.kixi!7 mani!7",s,EJG;JLC;ND;VP;RLC10
-E0902,"xquixi bizaa","x.kizhi bi-zaa",s,JLC;RLC10;VC17
-E1272,"xquixi seboya","x.kizhi sebo*ya",s,VC17
-E0903,"xtaa biiu'","x.taa biiwu*7",s,FSL12
-E0819,"xtaga be'ñe'","(gye7) x.taga be!7nye, x.taga be!7ny, s.taga be!7nye [FSL12]",s,JLC;ND;RLC;VP;RLC10;FSL12;FSL15
-E0905,xtoope,x.too*pe*,s,RLC10;MLC14;RLC14;FSL15
-E1211,"xtoope binni dxaba'","x.too*pe* binni* dxaba!7",s,VC17
-E0907,xtropaju,xtropa*ju,s,JLC;RLC10
-E1039,"xuba quichi'","zhuba!7 kichi7",s,RLC10;VC17
-E1029,"xuba'",zhuba!7,s,EJG;JLC;VP;RLC04;RLC10
-E1033,"xuba' bidxi","zhuba!7 bidxi",s,JLC;RLC10;VC17
-E1034,"xuba' cubi","zhuba!7 ku*bi",s,RLC05;RLC10;VC17
-E1035,"xuba' de","zhuba!7 de",s,JLC;RLC10;VC17
-E1036,"xuba' guchi","zhuba!7 guchi",s,RLC10;VC17
-E1044,"xuba' huayachi","zhuba!7 wa-y.a!chi",s,EJG;RLC11;RLC14
-E1038,"xuba' moradu","zhuba!7 mora*du",s,RLC10;VC17
-E0377,"xuba' ni gudo beeyu","zhuba!7 ni gu-d.o beeyu*",s,RGL03;RLC04;RLC10;VC17
-E1275,"xuba' niyaa","zhuba!7 niyaa",s,GB17;VC17
-E1041,"xuba' rooba'","zhuba!7 rooba",s,JLC;RLC10
-E1042,"xuba' rooba' dani","zhuba!7 rooba dani*",s,FSL13
-E1045,"xuba' xiña'","zhuba!7 zhi-nya*7",s,RLC10
-E1047,"xuba' yuudxu'","zhuba!7 yuudxu",s,RLC10;VC17
-E1030,"xuba' ziña","zhuba!7 zinya",s,EJG;JLC;ND;RLC10;RLC14;FSL15;RLC15;VOT15;VC17
-E0736,"xuba' ñe yaa","(zhuba!7) nye* yaa",s,ND;GB17
-E1048,"xubaande'",zhuba!ande,s,JLC;RLC10;GB17
-E1197,xuga,zhuga,s,VC17
-E1237,"yaala bido'","yaalla* bi-do7",s,JLC;RLC10
-E1057,"yaala'",yaalla*,s,EJG;JLC;ND;VP;RLC10;VC17
-E1059,"yaana'",yaana,s,EJG;JLC;ND;VP;RLC10;VC17
-E0925,yaga,yaga,s,EJG;JLC;ND;VP;RGL03;RLC10;RLC14;VOT14
-E0125,"yaga bacua'","(yaga) ba-kwa*7",s,JLC;ND;RLC10;BSL12;FSL14
-E0126,"yaga bacua' dani","(yaga) ba-kwa*7 dani*",s,FSL14
-E1120,"yaga bacua' guchi","(yaga) ba-kwa*7 guchi",s,RLC14
-E1234,"yaga bacua' quichi'","(yaga) ba-kwa*7 kichi!7",s,FSL17
-E0143,"yaga bara bacana'","(yaga) ba*ra ba-kana!7",s,RGL03;RLC04;RLC10;FSL15;RLC15;VOT15
-E0116,"yaga bara seda","(yaga) ba*ra se*da",s,RLC10;FSL14;VOT14
-E1127,"yaga bara seda xiña'","(yaga) ba*ra se*da zhi-nya*7",s,FSL14;RLC14
-E0927,"yaga beu'","yaga beyu*7",s,JLC;RLC10;BSL12;FSL15;RLC15;FSL16
-E0938,"yaga bia","yaga bya",s,RLC04;RLC10;VC17
-E1148,"yaga biaa gueta","(yaga) byaa* geta",s,FSL16
-E0296,"yaga biaa gueta chaahui'","(yaga) byaa* geta cha!7wi ~ byaa* geta chaawi ~ byaa* wiini",s,RLC04;RLC10;FSL15;VOT15
-E0295,"yaga biaa gueta gui'xhi'","(yaga) byaa* geta gi7xi",s,EJG;JLC;VP;RLC04;RLC10;FSL16
-E0939,"yaga biaaui","yaga b.yaawi*",s,JLC;RLC10;VC17
-E0929,"yaga biadxi","yaga byadxi",s,EJG;JLC;ND;VP;RLC04;RLC10;VC17
-E0178,"yaga bichiisa","yaga bi-chii*sa*",s,EJG;JLC;ND;RLC10;VOT12;FSL14;FSL15;VOT15
-E1129,"yaga bichuga dxita","(yaga) bi-chuga dxita ~ bi-chuga dxita ~ bi-chuga",s,EJG;VP;RGL03;RLC10;FSL14
-E0930,"yaga biduaa","yaga bi-dwaa",s,JLC;RGL03;RLC10;VC17
-E0932,"yaga biga raagu'","yaga biga raagu",s,JLC;RLC10;RLC14;VC17
-E0933,"yaga bii","yaga bii*",s,JLC;RLC04;RLC10;FSL15
-E0245,"yaga bioongo'","(yaga) byoongo",s,EJG;JLC;VP;RLC04;RLC10;VOT15
-E0246,"yaga bioongo' dani","(yaga) byoongo dani*",s,FSL12
-E0248,"yaga biquiiche","(yaga) bi-kii*che*",s,EJG;VP;RLC10
-E0250,"yaga biquiiche dani","(yaga) bi-kii*che* dani*",s,FSL12
-E1178,"yaga biquiiche dxa'","(yaga) bi-kii*che* dxa*7",s,VC17
-E0249,"yaga biquiiche quichi'","(yaga) bi-kii*che* bla*nku",s,FSL12
-E0257,"yaga bitiaa","(yaga) bi-tyaa*",s,JLC;ND;VP;RGL03;RLC04;RLC10;RLC12;FSL15;RLC15
-E0770,"yaga bizi lanna'","(yaga) bizi lanna!7",s,JLC;RGL03;FSL12;FSL14
-E0934,"yaga bojo","yaga bo*jo",s,RGL03;RLC04;RLC10;FSL14
-E0282,"yaga bramboyan","(yaga) brambo-ya!n",s,RLC04;FSL12;RLC12
-E0935,"yaga bugambilia","(yaga) bugambi*llya",s,JLC;RLC04;RLC10;RLC14
-E0286,"yaga bugambilia quichi'","(yaga) bugambi*llya kichi!7",s,RLC04;RLC10
-E0287,"yaga bugambilia xiña'","(yaga) bugambi*llya zhi-nya!7",s,RLC04;RLC10
-E0937,"yaga bui'","yaga bwi*7",s,RLC04;RLC10;VC17
-E0936,"yaga buu","yaga buu*",s,RGL03;RLC10;FSL14
-E1283,"yaga canela","yaga dani* ~ yaga kane*la",s,RLC10;RLC14
-E0331,"yaga chu bi'","(yaga) chu! bi7",s,EJG;JLC;ND;VP;RLC10;FSL15
-E0943,"yaga chuga","yaga chuga",s,BSL12
-E0332,"yaga chumaga muxe'","(yaga) chu!-ma*ga muzhe!7",s,RLC10;FSL12
-E0333,"yaga chumaga nguiiu'","(yaga) chu!-ma*ga ngi!yu7",s,JLC;RLC10;FSL15
-E0071,"yaga cobanu","(yaga) ko*ba+nu",s,JLC
-E0940,"yaga coco","yaga ko*ko",s,JLC;RLC04;VC17
-E0072,"yaga coros","yaga ko-ro!s",s,JLC;FSL14;RLC14
-E0941,"yaga cuaananaxhi","yaga kwaana=naxi",s,EJG;FSL14;RLC14
-E0944,"yaga dani","yaga dani* ~ yaga kane*la",s,RLC10;RLC14
-E0346,"yaga du'ga'","(yaga) du!7ga",s,EJG;VP;RLC04;RLC10;RLC14;RLC15;VOT15
-E0074,"yaga dxima","(yaga) dxi*ma*",s,JLC;RLC10;FSL15
-E1094,"yaga dxima yuxi","(yaga) dxi*ma* yuzhi",s,FSL15
-E1264,"yaga giichi zhiga be","(yaga) giichi* zhiga be",s,JLC;RLC10
-E0946,"yaga granada","yaga grana*da",s,JLC;RLC10;RLC14;VC17
-E1077,"yaga granadiu","(yaga) grana-dyu!",s,JLC;RLC10
-E0078,"yaga guenda bidxu","(yaga) genda* bi*dxu*",s,JLC;RLC10;VC17
-E0948,"yaga guenda dxiña cha'hui'","yaga genda* dxinya cha!7wi ~ yaga genda* dxinya ~ genda* dx^inya ~ enda* dxi^nya",s,JLC;VP;RLC04;RLC10;RLC14;FSL15;VOT15
-E0393,"yaga guesa","(yaga) ge*sa*",s,EJG;JLC;ND;VP;FSL14
-E0952,"yaga guie'","yaga gye7",s,EJG;ND;VP;RLC10
-E0535,"yaga guie' cha'chi'","(yaga) gye7 cha7chi",s,EJG;ND;VP;RLC04;RLC10;RLC14;FSL15;VOT15
-E0556,"yaga guie' niza","(yaga) gye7 niza",s,EJG;RGL03;RLC04;RLC10;CS12;VC12;FSL15;RLC15
-E0565,"yaga guie' tiiqui","(yaga) gye7 tiiki*",s,EJG;JLC;VC;RLC10;FSL15;VOT15
-E0576,"yaga guie' yaase'","(yaga) gye7 yaase",s,EJG;JLC;VP;RLC10;RLC14;RLL14;VOT14
-E0950,"yaga guiiba'","yaga giiba",s,VC17
-E0414,"yaga guiichi bateede","(yaga) giichi* ba-teede*",s,JLC;RLC10
-E0418,"yaga guiichi bele","(yaga) giichi* belle",s,RLC10
-E0435,"yaga guiichi biaa gueta","(yaga) giichi* byaa* geta",s,VP;RGL03;RLC04;RLC10;RLC14
-E0420,"yaga guiichi bidoorre","(yaga) giichi* bi-doo*rre*",s,JLC;VP;RLC10;FSL15;FSL16
-E0424,"yaga guiichi biduaa","(yaga) giichi* bi-dwaa",s,RLC14;FSL15;RLC15
-E1167,"yaga guiichi biduaa huiini'","(yaga) giichi* bi-dwaa wiini",s,RLC14;FSL15;RLC15
-E1168,"yaga guiichi biduaa naro'ba'","(yaga) giichi* bi-dwaa na-ro7ba",s,RLC14;FSL15;RLC15
-E0327,"yaga guiichi lui'","(yaga) giichi* lwi*7",s,JLC;RLC10;FSL16
-E1201,"yaga guiichi xiga be","yaga giichi* zhiga be",s,VC17
-E0080,"yaga guiichi yaa","(yaga) giichi* yaa",s,JLC;RLC14
-E0582,"yaga huala'dxi'","(yaga) wa-la!7dxi",s,JLC;RLC10
-E1277,"yaga huecu","yaga we*ku",s,ND;RGL03;RLC04;RLC10
-E0130,"yaga huigu'","(yaga) wigu!7",s,EJG;JLC;ND;RGL03;RLC04;RLC10;FSL12
-E0051,"yaga igu'","(yaga) igu!7",s,RLC04;RLC10
-E0618,"yaga la guiaa","(yaga) la* gyaa*",s,JLC;RGL03;RLC10;FSL14;PTV14;RLL14;FSL15
-E1115,"yaga la guie","(yaga) la* gye",s,FSL15
-E0619,"yaga la guitu","(yaga) la* gi^tu",s,EJG;JLC;ND;VP;RLC10;FSL12;ATR14;FSL14;JLC14;LLL14;RLC14
-E0316,"yaga la guitu copal","(yaga la* gitu) ko-pa!l",s,FSL12;FSL15
-E1093,"yaga la guitu guiichi","(yaga) la* gi^tu giichi*",s,FSL14;FSL15
-E1092,"yaga la guitu quichi'","(yaga) la* gi^tu kichi!'",s,ATR14;JLC14;LLL14;RLC14;FSL15
-E1091,"yaga la guitu xiña'","(yaga) la* gi^tu zhinya*'",s,FSL14;JLC14;LLL14;RLC14;VOT14;FSL15
-E0085,"yaga la xhadxi","(yaga) la* xa*dxi",s,JLC;RLC14;RLL14
-E0957,"yaga lima","yaga li*ma",s,RLC04;RLC14;VC17
-E0958,"yaga limon","yaga li-mo!n",s,RLC04;VC17
-E0672,"yaga ma lu'lu'","(yaga) ma lu!7lu",s,JLC;FSL12
-E0959,"yaga mandarina","(yaga) mandari*na",s,JLC;RLC04
-E0086,"yaga mangu","yaga ma*ngu",s,JLC
-E0961,"yaga mansana","yaga mansa*na",s,RLC04
-E0784,"yaga naga'","ya na-ga!7",s,RGL03;RLC10;RLC14;VC17
-E0089,"yaga nanchi","yaga na*nchi",s,JLC
-E0965,"yaga naranja","yaga nara*nja",s,JLC;RLC04;RLC10
-E0966,"yaga ngaaxi'","yaga ngaazhi DEN:RLC04,RLC10",s,RGL03;VC17
-E0967,"yaga niidxi","yaga niidxi* DEN:RLC14",s,RLC10
-E0968,"yaga nin","yaga ni!n",s,RLC12
-E0969,"yaga nisa","yaga nisa",s,JLC;RLC10;VC17
-E0090,"yaga papaya","yaga papa*ya",s,RLC10;VC17
-E0746,"yaga papaya gui'xhi'","(yaga) papa*ya gi7xi",s,BSL12;FSL12;FSL14;MLC14;RLC14
-E0743,"yaga papaya gunaa","(yaga) papa*ya gu-naa",s,RGL03;RLC04;RLC10;RLC14
-E0091,"yaga papaya nguiu'","(yaga) papa*ya ngyu!7",s,RGL03;RLC04;RLC10;VC17
-E0971,"yaga pinu","(yaga) pinu",s,JLC;RLC04;RLC10
-E1261,"yaga pirul","yaga pi-ru!l",s,VC17
-E0765,"yaga piñon","(yaga) pi-nyo!n",s,JLC;RLC04;RLC10;VC17
-E0972,"yaga queebe'","yaga keebe",s,EJG;FSL14;MLL14;RLC14;VC17
-E0973,"yaga rroble","(yaga) ro*ble",s,JLC;RLC04;RLC10
-E1105,"yaga tachuela","yaga tachwe*la",s,FSL14
-E0974,"yaga tama","(yaga) tama",s,JLC;RLC07;RLC10;CS12;FSL15
-E0976,"yaga tini","yaga tini",s,RGL03;RLC10;FSL14
-E0975,"yaga tinta","yaga ti*nta",s,FSL12
-E0977,"yaga tuxhu","yaga tuxu",s,ND;RLC10;MLL14;VC17
-E0978,"yaga ule","yaga u*le",s,RLC10
-E1125,"yaga verde","yaga be*rrde",s,FSL13;RLL14
-E0981,"yaga xhuxhu","yaga xuxu*",s,JLC;MLC14;RLC14
-E1031,"yaga xuba' be'za'","yaga zhuba!' be7za",s,JLC;RGL03;RLC10;BSL12;FSL12
-E0982,"yaga xuga","yaga zhuga",s,EJG;JLC;RLC10;FSL12;FSL14;RLC14
-E0983,"yaga yaa","yaga yaa",s,RGL03;RLC10;RLC14
-E0984,"yaga yaabi'","yaga yaabi",s,RGL03;RLC10;VC17
-E1060,"yaga yaazi'","(yaga) yaazi",s,EJG;RLC10;FSL12;FSL14;RLC14
-E0052,"yaga yana'","(yaga) yana!7",s,EJG;JLC;ND;RLC10;FSL12;VC12;MLC14;RLC14;RLL14;VOT14
-E0987,"yaga yaxhu","yaga yaxu",s,RLC04;RLC10
-E0991,"yaga zidi","yaga zidi",s,JLC;VC17
-E0992,"yaga ziña","yaga zinya",s,EJG;JLC;ND;VP;RGL03;RLC04;RLC10;FSL15;RLC15;VOT15
-E0970,"yaga ñee","yaga nyee",s,JLC;RLC10
-E1053,yape,ya*pe,s,EJG;ND;VP;RLC04;RLC10;VC17
-E0997,yaxhu,yaxu,s,EJG;JLC;ND;VP;RLC04;RLC10;RLC14
-E0404,"yaya xuba'","ya*ya* zhuba!7",s,VC17
-E1258,yaza,yaza,s,VC17
-E1000,"yerba de cancer","ye*rba de+ ka*nser",s,RGL03;RLC04;RLC10
-E1001,yerbabuena,yerbabwe*na,s,JLC;RLC04;RLC10
-E1002,yerbadetoro,"ye*rba de toro",s,RGL03;RLC04;RLC10;FSL12;FSL17
-E1003,yerbasanta,yerbasa*nta,s,JLC;RGL03;RLC04;RLC10;FSL12
-E1004,"yonde'",yonde!7,s,JLC;RLC10
-E1006,"yu cue'la'","yu kwe7la",s,RLC04;RLC10;VC17
-E1007,yudxi,yudxi*,s,JLC;VP;RLC10
-E0800,"za biduni","za bi!-du*ni",s,EJG;JLC;ND;RLC10;FSL12;FSL14;RLC14;FSL15
-E0801,"za biguini","za bi!-gi*ni",s,JLC;RLC10;FSL12;FSL15;VOT15
-E1009,"za niñu","za ni*nyu",s,RLC04
-E1011,zana,zana,s,RGL03
-E1012,"zana naxhi","za_na na_xi",s,EJG;ND;VC17
-E1014,zee,zee,s,EJG;JLC;ND;VP;RGL03;RLC04;RLC10
-E0989,"zee huiini'","zee wiini",s,RLC14
-E1015,"ziidi'",ziidi,s,EJG;ND
-E1017,"ziña banda'","zinya ba-nda*7",s,JLC;ND;RLC10;VC17
-E1278,"ziña bidxi","zinya bidxi",s,VC17
-E1018,"ziña bya","zinya bya",s,EJG;JLC;ND;RLC10
-E1021,"ziña daa","zinya daa",s,JLC;RLC10;FSL14;VC17
-E1022,"ziña yaa","zinya yaa",s,RGL03;RLC10;VC17
-E0735,"ñaa",nyaa,s,JLC;ND;RLC10
-E1267,"ñaa xcu","nyaa* x.ku",s,VC17
-E1210,"ñee bandaga","nyee ba-ndaga",s,VC17
-E1069,"ñee bidxiña","nyee bi-dxinya*",s,FSL14
-E0737,"ñee yaga","nyee yaga",s,RGL03;RLC10
+ID,Language_ID,Headword,Part_Of_Speech,HeadwordPDLMA,Sources
+E0099,zai,aju,s,a*ju,JLC;RGL03;RLC04;RLC10
+E0100,zai,alcanfor,s,alka-nfo!r,RLC04;RLC10
+E0101,zai,alcatras,s,alka-tra!s,RLC04;RLC10
+E1132,zai,almendra,s,alme*ndra,JLC;RLC10;RLC14
+E0105,zai,anis estreya,s,ani!s estre*ya,RLC04
+E1195,zai,anisadu xuba',s,anisa*du zhuba!7,VC17
+E0108,zai,anona,s,ano*na,RLC04;RLC10;FSL14
+E0109,zai,apiu,s,a*pyu,RLC04;RLC10
+E0110,zai,arnica,s,a*rrni-ka,RGL03;RLC04;RLC10
+E0111,zai,arros,s,a-rro!s,RLC10
+E0123,zai,baba' xti nite,s,baba!' (x.ti*) nite,RLC10
+E1235,zai,bacua',s,ba-kwa7,FSL17;VC17
+E0006,zai,bacuela gui'xhi',s,ba-kwe*lla* gi7xi,FSL12;FSL14;RLC14;VOT14
+E0005,zai,bacuela niza,s,ba-kwe*lla* (niza),JLC;ND;VP;RGL03;RLC10;FSL14;RLL14
+E0007,zai,bacuugu',s,ba-kuugu,EJG;RGL03;FSL14
+E1134,zai,bacuxu',s,ba-kuzhu!7,ND;VP;RLC04;RLC10
+E0009,zai,bacuxu' quichi',s,ba-kuzhu!7 kichi!7,ND;VP;RLC04;RLC10;FSL14;RLC14;FSL15
+E0008,zai,bacuxu' rosado,s,ba-kuzhu!7 rosa*du,ND;VP;RLC04;RLC10;FSL14;RLC14;FSL15
+E1108,zai,badana,s,ba-da*na,FSL14
+E0010,zai,badandi',s,ba-dandi!7,EJG
+E0098,zai,badxa laga,s,ba-dxa* la*ga,RLC04;RLC10
+E0122,zai,baina,s,ba*yna,JLC;RGL03;RLC10
+E0011,zai,baladxi',s,ba-ladxi!7,VC12;FSL14;RLC14
+E0012,zai,baladxi' guiichi,s,ba-ladxi!' giichi*,RLC10;FSL14;RLC14
+E0013,zai,bandadi',s,ba-ndadi!7,EJG;JLC;VP;RLC04;RLC10;RLC14
+E0014,zai,bandaga,s,ba-ndaga,EJG;JLC;VP;RGL03;RLC10;VOT14
+E0015,zai,bandaga bata,s,ba-ndaga bata,RLC04;GPB10;RLC10
+E0019,zai,bandaga bia,s,ba-ndaga bya*,RGL03
+E0017,zai,bandaga biduaa,s,ba-ndaga bi-dwaa,RLC10
+E0020,zai,bandaga bioongo',s,ba-ndaga byoongo,RLC04;RLC10
+E0131,zai,bandaga granada,s,ba-ndaga grana*da,RLC04;RLC10
+E0022,zai,bandaga gueta guu,s,ba-ndaga geta guu*,RGL03;RLC10
+E1219,zai,bandaga guie',s,ba-ndaga gye7,VC17
+E1116,zai,bandaga huigu',s,ba-ndaga wigu!7,RLC14
+E0025,zai,bandaga mani' xubi,s,ba-ndaga mani!' zhu!bi,RLC04;RLC10
+E0026,zai,bandaga mudu,s,ba-ndaga mudu*,RGL03;RLC04;RLC10;FSL14;RLC14;VOT14
+E0027,zai,bandaga naranja,s,ba-ndaga nara*nja,RLC04;RLC10
+E0029,zai,bandaga nisa,s,ba-ndaga nisa,RLC10
+E0033,zai,bandaga ri'ni',s,ba-ndaga ri7ni,RGL03;RLC04;RLC10;VOT14
+E0031,zai,bandaga riguiidi',s,ba-ndaga ri-giidi,JLC;RLC07;RLC10
+E1154,zai,bandaga rini,s,ba-ndaga rini,JLC;RLC10;RLC14;VOT14
+E0128,zai,bandaga ta guu,s,ba-ndaga ta guu*,RLC10
+E0129,zai,bandaga te,s,ba-ndaga te,JLC;SOO14;VOT14
+E1117,zai,bandaga xolo,s,ba-ndaga zhollo,RLC14
+E0135,zai,bandaga yaa,s,ba-ndaga yaa,RLC10
+E0136,zai,bandaga yaxhu,s,ba-ndaga yaxu,RLC04;RLC10
+E0132,zai,bandaga yerbasanta,s,ba-ndaga yerbasa*nta,RLC04;RLC10;VOT14
+E1262,zai,bandaga yua,s,ba-ndaga yuwa,VC17
+E1187,zai,bandaga yuxi,s,ba-ndaga yuzhi,VC17
+E0138,zai,bandaga zee,s,ba-ndaga zee,JLC;RLC10;RLC14
+E0140,zai,bandui',s,ba-ndwi*7,EJG;JLC;VP;RGL03;RLC04;RLC05;RLC10
+E0141,zai,bandui' gui'xi',s,ba-ndwi*7 gi7xi,RGL03;RLC04;FSL14
+E0142,zai,bandui' roonde',s,ba-ndwi*' roonde*,RGL03;RLC04;RLC10;FSL14
+E0113,zai,bara,s,ba*ra,JLC;RLC10
+E0114,zai,bara mboolo',s,ba*ra mboolo,JLC;RLC10;RLC14;VOT14
+E0115,zai,bara nite,s,ba*ra nite,JLC;RLC10;RLC14;SOO14;VOT14
+E0119,zai,bara xiaa,s,ba*ra zhyaa*,JLC;FSL14;VC17
+E0120,zai,bara yu'la',s,ba*ra yu!7la,JLC;RLC10
+E0121,zai,bara ziuula',s,ba*ra z.yuula,RLC10
+E0145,zai,baruusa,s,ba-ruu*sa*,JLC;RLC10;RLC14;VOT14
+E1224,zai,bato' yaga,s,ba-to7 yaga,VC17
+E0147,zai,batuuba',s,ba-tuuba,RGL03;RLC09;RLC10;FSL15;RLC15;VOT15
+E0148,zai,batuuba' gui'xhi',s,ba-tuuba gi'xi,JLC;RLC14
+E1083,zai,batuucha,s,ba-tuu*cha*,FSL14
+E1095,zai,batuuza',s,ba-tuuza,RLC14;VOT14;RLC17
+E0149,zai,be,s,be,EJG;VP;RLC10
+E1260,zai,be yaga,s,be yaga,VC17
+E1221,zai,be'te' tubi,s,be7te tu*bi,VC17
+E0160,zai,be'za',s,be7za,EJG;JLC;VP;RGL03;RLC10
+E0162,zai,be'za' yaga,s,be7za yaga,EJG;JLC;VP;RLC10;FSL12;FSL15
+E0152,zai,beela quii,s,beella* kii*,RLC04;RLC10;FSL14;FSL15;VOT15
+E0155,zai,berbena,s,berbe*na,RLC04;RLC10
+E0158,zai,beu',s,bewu*7,EJG;VP;RLC10
+E0175,zai,bi'ca',s,bi7.ka,JLC;VC17
+E0261,zai,bi'xhu',s,bi7xu,EJG;JLC;RLC10;VC17
+E1181,zai,bia,s,bi.ya,RGL03;RLC10;FSL14;VC17
+E0292,zai,bia,s,bi.ya,EJG;JLC;ND;VP;RGL03;RLC04;RLC10
+E1182,zai,bia biduaa,s,bi.ya bi-dwaa,VC17
+E1179,zai,bia huidxe',s,b.ya wi*-dxe7*,VC17
+E0294,zai,biaa,s,b.yaa*,ND;RLC10;VC17
+E0299,zai,biaachi,s,b.yaa*chi*,EJG;FSL14;RLC14;FSL15;RLC15;VOT15
+E0300,zai,biaahui,s,b.yaawi*,EJG;JLC;ND;VP;RLC04;RLC10;FSL14;RLC14
+E0165,zai,biaahui do,s,b.yaawi* do,EJG;FSL12;FSL14
+E0166,zai,biadxi,s,b.yadxi,EJG;ND;VP;RLC04;RLC10
+E0167,zai,biadxi beñe,s,b.yadxi benye,JLC;RLC10
+E0168,zai,biadxi bidxiña,s,b.yadxi bi-dxinya*,JLC;FSL14
+E0170,zai,biadxi dani,s,b.yadxi dani*,RLC10;FSL15;RLC15;VOT15
+E0169,zai,biadxi guchi,s,b.yadxi guchi,RLC10;FSL14
+E0171,zai,biadxi mayu,s,b.yadxi ma*yu,VOT12;FSL14;RLC14
+E0172,zai,biadxi rii,s,b.yadxi rii,JLC;RLC04;RLC10;VOT12;FSL14;RLC14
+E0173,zai,biadxi yaagui',s,b.yadxi yaagi,JLC;RLC10;FSL14;RLC14
+E0174,zai,biadxi yi',s,b.yadxi yi*7,JLC;FSL14;RLC14
+E1199,zai,bichiisa,s,bi-chii*sa*,VP
+E0180,zai,bichooxhe,s,bi-chooxe*,EJG;JLC;ND;VP;RGL03;RLC04;RLC10
+E0181,zai,bichooxhe berde,s,bi-chooxe* be*rrde,RLC04;RLC10
+E1238,zai,bichooxhe bola,s,bi-chooxe* bo*la,VC17
+E1242,zai,bichooxhe dxu',s,bi-chooxe* dxu*7,VC17
+E1246,zai,bichooxhe gui'xhi',s,bi-chooxe* gi7xi,EJG;JLC;ND;VP;RLC04;RLC10;RLC14;SOO14;VOT14;FSL15;RLC15;VOT15
+E1241,zai,bichooxhe guie lu bidxiña,s,bi-chooxe* gye lu bi-dxinya*7,VC17
+E1240,zai,bichooxhe huala'dxi',s,bi-chooxe* wa-la!7dxi,VC17
+E0179,zai,bichooxhe ndaba',s,bi-chooxe* ndaba!7,EJG;JLC;ND;VP;RLC04;RLC10;RLC14;SOO14;VOT14;FSL15;RLC15;VOT15
+E1244,zai,bichooxhe xtinu,s,bi-chooxe* x.ti*nu*,VC17
+E1239,zai,bichooxhe yani,s,bi-chooxe* yanni,VC17
+E0176,zai,bicuudxe,s,bi-kuu*dxe*,JLC;RLC10
+E0187,zai,biduaa,s,bi-dwaa,EJG;VP;RGL03;RLC10
+E0188,zai,biduaa bidxi',s,bi-dwaa bi-dxi!7,RGL03;RLC04;RLC10;CE12
+E0189,zai,biduaa chita,s,bi-dwaa chita,EJG;VP;RGL03;RLC04;RLC10
+E0190,zai,biduaa enanu,s,bi-dwaa ena*nu,RLC10
+E0192,zai,biduaa migu,s,bi-dwaa mi*gu*,RLC10
+E0193,zai,biduaa piña,s,bi-dwaa pi*nya,RGL03;RLC04;VC17
+E0194,zai,biduaa sapu,s,bi-dwaa sa!pu,RLC10
+E0195,zai,biduaa seda,s,bi-dwaa se*da,RGL03;RLC04;RLC10
+E0196,zai,biduaa xiña',s,bi-dwaa zhi-nya*7,RGL03;RLC04;RLC10
+E0197,zai,biduaa yaagui',s,bi-dwaa yaagi,RLC10
+E0198,zai,bidxi,s,bi-dxi,EJG;JLC;ND;VP;RGL03;RLC04;RLC10;VOT14;FSL15;RLC15;VOT15
+E1156,zai,bidxi beenda',s,bi-dxi beenda,JLC;RGL03;RLC04;RLC10;FSL12;RLC14;RLL14;FSL15
+E0201,zai,bidxi cha'hui',s,bi-dxi cha!7wi,RGL03;RLC04;RLC10
+E0203,zai,bidxi dxiña,s,bi-dxi dxinya,EJG;ND;RGL03;RLC10;FSL12;FSL15
+E1158,zai,bidxi gringu,s,bi-dxi gri*ngu,FSL15;FSL16
+E0206,zai,bidxi layu,s,bi-dxi la=yu,EJG;FSL14;RLC14
+E0208,zai,bidxi mudu,s,bi-dxi mudu*,RGL03;RLC04;RLC10;FSL15
+E1157,zai,bidxi mula',s,bi-dxi mulla!7,FSL15
+E0202,zai,bidxi pinu (huiini'),s,bi-dxi pi*nu (wiini),FSL15
+E0214,zai,bidxi tini,s,bi-dxi tini,EJG;FSL14;RLC14
+E0215,zai,bidxi toope,s,bi-dxi toope*,EJG;JLC;ND;RGL03;FSL12;FSL15;FSL16
+E0216,zai,bidxi yele',s,bi-dxi yelle!7,RLC04;RLC10;FSL15
+E0212,zai,bidxi ñee de,s,bi-dxi nyee de,EJG;RLC10
+E0218,zai,bidxumi,s,bi-dxu*mi*,EJG;JLC;ND;VP;FSL14;FSL17;VC17
+E0220,zai,biga raagu',s,bi-ga raagu,EJG;RGL03;RLC10;RCL12;RLC14
+E0221,zai,biga raagu' migu,s,bi-ga raagu migu*,EJG;VP;VC17
+E1183,zai,biga raagu' niidxi,s,bi-ga raagu niidxi*,VC17
+E1184,zai,biga raagu' roonde,s,bi-ga raagu roonde*,VC17
+E0227,zai,biguie',s,bi-gye7,RLC10
+E0224,zai,bigupi benda,s,bi-gupi benda,FSL14
+E0223,zai,biguá gui'xhi',s,bi-gwa! gi7xi,VC15
+E0228,zai,bii,s,bi.i*,JLC;ND;VP;RLC04;RLC10
+E0229,zai,biibi,s,(yaga) bii*bi*,JLC;RLC14
+E0230,zai,biibi oro,s,bii*bi* o*ro,ND;RLC04;RLC10;FSL15;RLC15
+E0231,zai,biidxi',s,biidxi,JLC;ND;VP;RGL03;RLC04;RLC10
+E0232,zai,biidxi' almedra,s,biidxi alme*ndra,JLC;RGL03;RLC10
+E0233,zai,biidxi' guitu,s,biidxi gitu,JLC;RLC04;RLC10
+E0235,zai,biitu,s,biitu*,EJG;JLC;ND;VP;RGL03;RLC10;RLC14;VOT14
+E0238,zai,bilumbu',s,bi-lumbu!7,EJG;ND;RGL03;RLC09;RLC10;FSL15;RLC15;VOT15
+E0239,zai,bilumbu' riga,s,bi-lumbu!' riga,JLC;RLC10
+E0240,zai,bindii ziña,s,bi-ndii* zinya,JLC;RLC10
+E0241,zai,bini,s,bi-ni,VP;RLC10;VC17
+E1251,zai,bini,s,bi-ni,VP;RLC10;VC17
+E0242,zai,biniidxi,s,bi-nii*dxi*,JLC;VP;RLC10
+E1141,zai,biniidxi guchi,s,bi-nii*dxi* guchi,FSL14;RLC14;VC17
+E0243,zai,biniidxi xiñá',s,bi-nii*dxi* (gye7) zhi-nya*7,FSL14
+E0247,zai,bioongo' dani,s,byoongo dani*,RLC04;RLC10
+E0094,zai,biquiiri',s,bi-kiiri,EJG;ND;VC17
+E1189,zai,biquiiri' daapa,s,bi-kiiri daa*pa*,EJG;VC17
+E0251,zai,biruba guiiña',s,bi-ru*ba* giinya,JLC;VP;RLC04;RLC10;FSL15;RLC15;VOT15
+E0254,zai,birungu,s,bi-rungu*,JLC;VP;RLC04;RLC10
+E0258,zai,bitiaa gui'xhi',s,bi-tyaa* gi7xi,JLC;RLC10
+E0256,zai,bitu xiga,s,(yaga) bitu* zhi^ga,JLC;ND;VP;RLC10;FSL12;RSL12;FSL14;MLC14;RLC14;FSL15;RLC15
+E0037,zai,biu'dxu',s,b.y.u7dxu,JLC;RLC10
+E0259,zai,biuda alegre,s,byu*da ale*gre,RLC04;RLC10
+E0260,zai,bixhiidi',s,bi-xiidi,EJG;JLC;ND;RLC10
+E0264,zai,bixia,s,bi-zhya*,JLC;ND;VP;RLC10;FSL14;VC17
+E1097,zai,bixolo,s,bi-zholo*,FSL15
+E0263,zai,bixuga na' mixhtu',s,bi-zhuga* na*' mi^xtu!7,JLC;RLC04;RLC10
+E1198,zai,biyee,s,bi-yee,RLC10
+E0266,zai,bizaa,s,bi-zaa,EJG;ND;VP;RGL03;RLC10;RLC14
+E1282,zai,bizaa baala,s,bi-zaa baa*la*,VC17
+E0267,zai,bizaa bayu,s,bi-zaa ba*yu,RLC04;RLC10
+E0268,zai,bizaa bidxi,s,bi-zaa bidxi,RLC;RLC10
+E0269,zai,bizaa blancu,s,bi-zaa bla*nku,RLC04;RLC10
+E0270,zai,bizaa bolita,s,bi-zaa boli*ta,RLC10;FSL17
+E1212,zai,bizaa cuaana',s,bi-zaa kwaana,FSL17;VC17
+E1203,zai,bizaa dxima,s,bi-zaa dxi*ma,FSL17
+E1202,zai,bizaa dxima,s,bi-zaa dxi*ma,FSL17;VC17
+E1204,zai,bizaa huii,s,bi-zaa wii,VC17
+E0272,zai,bizaa huiini',s,bi-zaa wiini,EJG;VP;RGL03;RLC10;FSL17;VC17
+E0273,zai,bizaa quichi',s,bi-zaa kichi!7,RLC04;RLC10
+E0274,zai,bizaa ri'ni',s,bi-zaa ri7ni,JLC;RLC10
+E0275,zai,bizaa yaase',s,bi-zaa yaase,JLC;RLC10
+E0276,zai,bizachi,s,bi-zachi,EJG;ND
+E0279,zai,biziaa,s,bi-zyaa*,EJG;JLC;VP;RGL03;RLC10
+E1205,zai,biziaa nda',s,bi-zyaa* nda*',VC17
+E0926,zai,biziaa xtia,s,bi-zyaa* xtya! ~ (yaga) alme*ndra,RLC12
+E1206,zai,biziaa yu,s,bi-zyaa* yu,VC17
+E0278,zai,bizunu,s,bi-zunu,EJG;VP;RLC10;RLC14;VOT14;VC17
+E0244,zai,biña',s,bi-nya*7,FSL12;RLC14
+E0281,zai,bolita,s,boli*ta,RLC10;RLC14
+E0283,zai,brasil,s,bra-si!l,RLC04;RLC10;FSL15;RLC15
+E0288,zai,bui',s,bwi*7,EJG;JLC;ND;VP;RLC04;RLC10
+E0290,zai,bui' dani,s,bwi*' da^ni*,JLC
+E0291,zai,bui' de pera,s,bwi*' de+ pe*ra,RLC04;RLC10
+E0289,zai,bui' guchi,s,bwi*7 guchi,RLC04;RLC10
+E0302,zai,cacahuate,s,kakawa*te,JLC;RLC10
+E0303,zai,cafe,s,ka-fe!,RLC04;RLC10
+E0304,zai,canela,s,kane*la,RLC10
+E0305,zai,catalan,s,kata-la!n,RGL03;RLC04;RLC10
+E1107,zai,charru gringu,s,cha*rrugri*ngu,FSL14
+E0329,zai,chinchin,s,chin-chi!n,FSL12
+E0307,zai,clabu,s,kla*bu,RGL03;RLC04;RLC10
+E0308,zai,clabu huiini',s,kla*bu wiini,RGL03;RLC04;FSL14
+E0309,zai,coco,s,ko*ko,JLC;RLC04;RLC10
+E0310,zai,coco huiini',s,ko*ko wiini,JLC;RLC10
+E0311,zai,cola de cabayu,s,ko*la de+ kaba*yu,RLC04;RLC10
+E0911,zai,cola mani xubi,s,ko*lla mani!' zhu!bi,RGL03;RLC04;FSL12;VC12;VOT15
+E0857,zai,cola mani xubi dani,s,ko*lla mani!' zhu!bi dani*,VG17
+E1072,zai,congo dani,s,ko*ngo dani*,FSL14
+E0314,zai,coongo',s,koongo,RLC10
+E0315,zai,copachil,s,pa-chi!l,FSL12;FSL16
+E1110,zai,copita,s,kopi*ta,FSL14;RLC14
+E0317,zai,coquito,s,koki*to,RLC04;RLC10
+E0318,zai,cortes,s,korrte!s,FSL14
+E0319,zai,cresta gayu,s,kre*sta ga*yu,RLC04;RLC10
+E1268,zai,cuaananaxhi gui'xhi',s,kwaana=naxi gi7xi,VC17
+E0322,zai,cuaananaxhi,s,kwaana=naxi,JLC;ND;RLC10
+E0323,zai,cue' bandaga,s,kwe7 ba-ndaga,RGL03;RLC10
+E0324,zai,cue' yaga,s,kwe7 yaga,RGL03;RLC10;RLC14;SOO14;VOT14;VC17
+E1106,zai,cuete,s,kwe*te,FSL14;RLL14
+E0320,zai,cumbriu,s,"ku-mbri!wu, ko-mbri!w",JLC;RGL03;RLC10;FSL15;VOT15
+E0335,zai,de guie',s,de gye7,RGL03;VC17
+E0338,zai,de punta rrama,s,de+ pu*nta rra*ma,RGL03;RLC10
+E0336,zai,de punta yaga,s,de+ pu*nta yaga,RGL03;RLC10
+E0339,zai,deche bandaga,s,deche ba-ndaga,RGL03;RLC10;VC17
+E1281,zai,diaga bindxaba',s,dyaga bin=dxaba!7,RGL03;RLC04;RLC10;VC17
+E1232,zai,doo donda,s,doo donda,VC17
+E0341,zai,doo luxu,s,doo luzhu*,EJG;RLC10
+E0342,zai,doo ziña,s,doo zinya,JLC;RLC10
+E1099,zai,dormilona,s,dormilo*na,FSL14;FSL15
+E0343,zai,du,s,du,EJG;JLC;ND;VP;RGL03;RLC10;VC17
+E0050,zai,du'ga',s,du!7ga,JLC;RLC10
+E1130,zai,du'ga' gui'xi',s,du!7ga gi7xi,RLC14
+E0345,zai,duba,s,duba,JLC;ND;VP;RLC10
+E0798,zai,duba dxa,s,duba dxa*,JLC;RLC04;RLC10;VC17
+E0799,zai,duba dxa gui'xhi',s,duba dxa* gi7xi,RLC04;RLC10
+E0344,zai,dudu,s,du*du*,JLC;RLC10;VC17
+E0347,zai,duuza',s,duuza,JLC;ND;VP;RLC04;RLC10;VC17
+E0349,zai,dxiña yaga,s,dxinya yaga,RLC04;RLC10;VC17
+E0351,zai,esclabon,s,eskla-bo!n,RLC10;FSL15
+E0355,zai,flor de china,s,flor de chi*na,RLC04;RLC10;VC17
+E0354,zai,flordecampu,s,florrde-ka*mpu,FSL15;RLC15;VOT15
+E0356,zai,fresa,s,fre*sa,RGL03;RLC04;RLC10
+E1227,zai,galaa bato' yaga,loc,ga-laa* ba-to7 yaga,VC17
+E0359,zai,gamitu gui'xhi',s,gami*tu* gi^7xi,RGL03;RLC10
+E0945,zai,gardenia,s,garde*nya,RLC04;RLC10;FSL14
+E0365,zai,girasol,s,jira-so!l,RLC04;RLC10
+E0595,zai,girasol cha'hui',s,jira-so!l cha!7wi,RLC04;RLC10
+E0596,zai,girasol gui'xhi',s,jira-so!l gi7xi,RLC04;RLC10
+E0367,zai,gordolobo,s,gorrdolo*bo,RLC04;RLC10
+E0368,zai,granada,s,grana*da,RLC04;RLC10;RLC14
+E0369,zai,gu,s,gu,EJG;JLC;ND;VP;RGL03;RLC10;RLC4
+E0370,zai,gu bandaga,s,gu ba-ndaga,RLC10
+E0371,zai,gu biguitu,s,gu bi-gitu,RLC10
+E0372,zai,gu cha'hui',s,gu cha!7wi,RGL03;RLC04;RLC10
+E1145,zai,gu guchi,s,gu guchi,RLC14
+E0373,zai,gu muradu,s,gu mura*du,RLC10
+E0374,zai,gu xiña',s,gu zhi-nya*7,RLC10
+E0375,zai,gu yaga,s,gu yaga,EJG;JLC;VP;RGL03;RLC10
+E1216,zai,gu yu,s,gu yu,VC17
+E0520,zai,gu'xhu' bido',s,gu7xu bi-do7,JLC;RLC10
+E0376,zai,guba gui,s,guba* gi,EJG;JLC;VP;RLC10;VC17
+E0387,zai,gue'la' ziña,s,ge7la zinya,EJG;ND;VC17
+E0379,zai,gueere',s,geere,EJG;JLC;VP;RGL03;RLC04;RLC10
+E0380,zai,gueere' papaya,s,geere papa*ya,RGL03;RLC04;RLC10;RLC14;VC17
+E0382,zai,gueeze',s,geeze,RLC17;VC17
+E1280,zai,gueeze',s,geeze,JLC;RLC10;VC17
+E0383,zai,guela,s,gela,EJG;JLC;ND;VP;RLC04;RLC10
+E0384,zai,guela du,s,gela du,EJG;ND;RLC10;RLC14;VC17
+E1218,zai,guela duuza',s,gela duuza,VC17
+E0385,zai,guela guichu,s,gela gichu,EJG;JLC;RLC10;RLC14
+E1217,zai,guela niza,s,gela niza,VC17
+E0386,zai,guela zee,s,gela zee,EJG;JLC;ND;RLC10
+E0388,zai,guenda bedxe,s,genda* bedxe,EJG;ND
+E0040,zai,guenda bidxu cha'hui',s,genda* bi*dxu* cha!7wi,RLC04;RLC10
+E1102,zai,guenda bidxu dani,s,genda* bi*dxu* (dani*),FSL12;FSL14
+E0041,zai,guenda bidxu gui'xhi',s,genda* bi*dxu* gi7xi,RLC04;RLC10
+E1142,zai,guenda bidxu ike bere,s,genda* bi*dxu* (ike) bere,FSL14
+E0389,zai,guenda bidxu nisa,s,genda* bi*dxu* nisa,EJG;ND;VP;RCL10;RLC10;FSL12;RLC14;VOT14
+E1152,zai,guenda dxiña,s,genda* dxinya,VG17
+E0391,zai,guenda dxiña gui'xhi',s,genda* dxinya gi7xi,JLC;RLC10;FSL15
+E0038,zai,guenda ruguu bini,s,genda+ r.u-g.uu bi-ni,JLC;RLC10;VC17
+E0043,zai,guenda xunu,s,genda* zhunu,JLC;ND;VP;RLC04;RLC10
+E1180,zai,guendahuidxe',s,genda+ wi*-dxe7*,VC17
+E0394,zai,gueza,s,geza,EJG;JLC;VP;RGL03;RLC04;RLC10
+E0465,zai,gui'ri' bidxi,s,gi7ri bidxi,JLC;VP;RLC10;VC17
+E0467,zai,gui'ri' ziña,s,gi7ri zinya,JLC;ND;RGL03;FSL14;VC17
+E0481,zai,gui'xhi',s,gi7xi,JLC;RLC04;RLC10
+E1230,zai,gui'xhi' do,s,gi7xi do7,VC17
+E0482,zai,gui'xhi' mangle,s,gi7xi ma*ngle,RGL03;RLC04;RLC10;VC17
+E0483,zai,gui'xhi' ro',s,gi7xi ro!7,RGL03;RLC04;RLC10
+E0396,zai,guibi,s,gibi,JLC;RLC10;VC17
+E0395,zai,guicha guela,s,gicha gela,EJG;JLC;ND;RLC04;RLC10
+E0398,zai,guichu,s,gichu,EJG;JLC;ND;VP;RLC04;RLC10
+E0399,zai,guidi,s,gidi ladi,JLC;RLC10
+E0400,zai,guidi ladi la guitu,s,gidi ladi la* gi^tu,JLC;RLC10
+E0401,zai,guidi ladi sanjuan,s,gidi ladi sa-njwa!n,RLC04;RLC10
+E0402,zai,guidi ladi yaga,s,gidi ladi yaga,JLC;RLC10
+E0405,zai,guidxi,s,gidxi*,EJG;ND;VP;RLL14;VC17
+E1274,zai,guie xuba',s,gye zhuba!7,VC17
+E0522,zai,guie',s,gye7,JLC;RGL03;RLC10
+E0523,zai,guie' abril,s,gye7 a-bri!l,RLC12;VC17
+E0524,zai,guie' amapola,s,(gye7) amapo*la,RLC04;RLC10;VC17
+E0567,zai,guie' arnica,s,gye7 a*rrni-ka,RLC04;RLC10
+E0112,zai,guie' asusena,s,(gye7) asuse*na,BSL12
+E0525,zai,guie' bandaga bata,s,gye7 ba-ndaga bata,RLC10
+E0139,zai,guie' bandera,s,gye7 bande*ra,RLC04;RLC10
+E0526,zai,guie' batuuba',s,gye7 ba-tuuba,JLC;RLC10
+E0528,zai,guie' be'te',s,gye7 be7te,RLC04;RLC10;VC17
+E0527,zai,guie' begu,s,gye7 begu*,RLC04;RLC10
+E0529,zai,guie' bi'chi',s,gye7 bi7chi,EJG;JLC;ND;VP;RLC10;FSL14;RLC14;FSL15;RLC15
+E1146,zai,guie' bi'chi' guiigu',s,gye7 bi7chi giigu,FSL15
+E0530,zai,guie' bichiisa,s,gye7 bi-chii*sa*,JLC;RLC10
+E1186,zai,guie' biga raagu',s,gye' biga raagu,VC17
+E0531,zai,guie' bigua,s,(gye7) bi-gwa!,EJG;JLC;RLC04;RLC10;FSL14;RLC14;RLL14
+E0532,zai,guie' biibi,s,gye7 bii*bi*,RLC10;RLC14
+E0068,zai,guie' biri,s,gye' bi-ri*,EJG;JLC;FSL15;FSL16
+E0533,zai,guie' bramboyan,s,gye7 brambo-ya!n,RLC04;RLC10;RLC14
+E1177,zai,guie' cha'chi',s,gye7 cha7chi,EJG;ND;VP;RLC04;RLC10
+E0537,zai,guie' cha'chi' gui'xhi',s,gye7 cha7chi gi7xi,BSL12;FSL15;VOT15
+E1215,zai,guie' china,s,gye7 chi*na,RLC04;RLC10;VC17
+E0538,zai,guie' chisme,s,gye7 chi*sme,RLC04;RLC10;FSL14
+E1220,zai,guie' chita (naxhi),s,gye7 chita (naxi),VC17
+E0539,zai,guie' chuga,s,gye7 chuga,RLC04;RLC10
+E0534,zai,guie' clabel,s,gye7 klabe!l,FSL12
+E1185,zai,guie' coros,s,(gye7) ko-ro!s,VC17
+E0541,zai,guie' daana' cha'hui',s,gye7 daana cha!7wi,EJG;JLC;VP;RLC04;RCL10;RLC10;FSL14;RLC14;FSL15;VC17
+E0542,zai,guie' daana' gui'xhi',s,gye7 daana gi7xi,EJG;JLC;VP;RLC04;RCL10;RLC10;FSL14;RLC14;FSL15
+E0544,zai,guie' dani,s,gye7 dani*,RLC04;RLC10
+E0104,zai,guie' de ti rratu,s,gye7 de+ ti+ rra*tu,JLC;RLC04;RLC10
+E0547,zai,guie' duuza',s,gye7 duuza,RGL03;RLC10
+E0548,zai,guie' fitufiu',s,(gye7) fi!tu-fi!wu7,JLC;RLC05;RLC10;FSL14;RLC14;FSL16
+E0406,zai,guie' gade,s,gye7 ga*de*,FSL14;RLC14;FSL15
+E1136,zai,guie' gardenia,s,gye7 garde*nya,RLC14;VC17
+E0550,zai,guie' guchi,s,gye7 guchi,JLC;RLC04;RLC10;RLC14
+E1265,zai,guie' guiichi biduaa,s,gye7 guiichi* bi-dwaa,VC17
+E0551,zai,guie' guiichi gu,s,gye7 giichi* gu,RLC04;RLC10;FSL14
+E0552,zai,guie' guitu,s,gye7 gitu,RGL03;RLC10
+E0566,zai,guie' huaxhinni,s,gye7 wa-xinni,JLC;RLC10;RLC14
+E0554,zai,guie' isora,s,gye7 i-so*ra,RLC04;RLC10;VC17
+E0568,zai,guie' jamaica,s,gye7 jama!y-ka,RLC04
+E1247,zai,guie' la'dxido',s,gye7 la7dxi=do7,VC17
+E0555,zai,guie' moradu huiini',s,gye7 mora*du wiini,RLC04;RLC10
+E0557,zai,guie' ortensia,s,gye7 orrte*nsya,RLC04;RLC10
+E0558,zai,guie' papaya,s,gye7 papa*ya,RGL03;RLC04;RLC10
+E1104,zai,guie' quinseañera,s,gye7 kinseanye*ra,RLC14
+E0560,zai,guie' riele' huadxi,s,gye7 r.y.elle!' wa-dxi,JLC;RLC04;RCL10;RLC10
+E0570,zai,guie' rrosa de castia,s,gye7 rro*sa de ka-stya!,RLC;RGL03;RLC04;RLC10
+E0561,zai,guie' sapatu duende,s,gye7 sapa*tu dwe*nde,RGL03;RLC04;RLC10
+E0562,zai,guie' se' nalase',s,gye7 se*7 na-lase!7,JLC;RLC04;RLC10;FSL12;FSL15;VOT15
+E0563,zai,guie' se' naro'ba',s,gye7 se*7 na-ro!7ba,FSL12;FSL15
+E0571,zai,guie' stia,s,gye7 stya!,JLC;VP;RGL03;RLC04;RLC10;FSL15;RLC15
+E0408,zai,guie' stia gui'xhi',s,gye7 stya! gi7xi,RLC14
+E1188,zai,guie' te,s,gye7 te,RLC04;RLC10;RLC14;VC17
+E1123,zai,guie' tiiqui,s,gye7 tiiki*,EJG;JLC;RLC10;VOT15
+E1222,zai,guie' xquela guidi biniidxi,s,gye7 x.kela gidi bi-nii*dxi*,RGL03;RLC04;RLC10
+E0575,zai,guie' xuga,s,gye7 zhuga,RLC14
+E1155,zai,guie' xuuba',s,gye7 zhuuba,EJG;JLC;ND;VP;RLC04;FSL15;RLC15;VC15;VOT15
+E1166,zai,guie' yaana',s,gye7 yaana,RLC14;FSL15;RLC15;VOT15
+E0577,zai,guie' zinya,s,gye7 zinya,EJG;RLC04;RLC10;FSL15;RLC15;VOT15
+E0411,zai,guiichi,s,giichi*,JLC;ND;RGL03;RLC04;RLC10
+E0413,zai,guiichi aguxa',s,giichi* aguzha!7,JLC;RLC04;RLC10;FSL14
+E0415,zai,guiichi batuuba',s,giichi* ba-tuuba,JLC;RLC10;RLC14
+E0422,zai,guiichi bidu',s,giichi* bidu!7,EJG;JLC;ND;RLC04;RLC10;FSL12
+E0425,zai,guiichi biga raagu',s,giichi* biga raagu,JLC;RLC14
+E0429,zai,guiichi bihui,s,giichi* biwi,FSL12
+E0426,zai,guiichi bii,s,giichi* bii*,JLC;RLC10
+E0428,zai,guiichi biruba,s,giichi* bi-ru*ba*,EJG;JLC;ND;VP;RLC10
+E0430,zai,guiichi bixa',s,giichi* bizha*7,EJG;JLC;ND;RLC10;FSL12;FSL14
+E1126,zai,guiichi bixa' burra,s,giichi* bizha*7 bu*rra,FSL14;FSL17
+E0431,zai,guiichi bixa' mani',s,giichi* bi-zha*7 mani!7,JLC;FSL14
+E0432,zai,guiichi bizaari',s,giichi* bi-zaari,ND;VP;FSL14
+E0433,zai,guiichi bupu,s,giichi* bupu,FSL15
+E0434,zai,guiichi buu,s,giichi* buu*,RLC04;RLC10;FSL12;FSL14;VOT15;FSL16;FSL17
+E0437,zai,guiichi dxita,s,giichi* dxita,RLC10;BSL12;FSL14;FSL15
+E0436,zai,guiichi dxiña,s,giichi* dxinya*,RLC10;FSL12
+E0438,zai,guiichi gu moradu,s,giichi* gu mora*du,FSL14;FSL15;VOT15
+E1144,zai,guiichi gu quichi',s,giichi* gu kichi!7,FSL14;FSL15;VOT15
+E0439,zai,guiichi gueda,s,giichi* geda,RGL03;RLC10;FSL15
+E0442,zai,guiichi laya bi'cu',s,giichi* laya (bi7ku),RLC04;RLC10;FSL15
+E0443,zai,guiichi luba',s,"giichi* lu-ba7 DEN:RLC10,MLC14",FSL14
+E0444,zai,guiichi lui',s,giichi* lwi*7,RLC10
+E0445,zai,guiichi ndani,s,(yaga) giichi* ndani,RLC10;FSL14;RLC14;FSL15;RLC15
+E0446,zai,guiichi tachi,s,giichi* ta*chi,FSL15;VOT15
+E0447,zai,guiichi xahui,s,giichi* zha*wi*,JLC;RLC10;FSL15
+E0325,zai,guiichi xhiidi,s,giichi* xiidi,EJG;JLC;ND;RLC10;FSL12;FSL14;RLC14;FSL15
+E0450,zai,guiichi xumi,s,giichi* zhu*mi*,JLC;RLC10;FSL12;VC17
+E0451,zai,guiichi yaa,s,giichi* yaa,FSL12;RLC14;FSL15;RLC15
+E0452,zai,guiichi yaase',s,giichi* yaase,EJG;JLC;RLC10;FSL15
+E0453,zai,guiichi yonde',s,giichi* yonde!7,EJG;RGL03;RLC04;RLC10;VC17
+E1223,zai,guiinya' bidxi za,s,giinya bidxi za,VC17
+E0461,zai,guiinya' xigundu',s,giinya zhi+ gundu!7,EJG;RGL03;RCL10;RLC10;VC17
+E0454,zai,guiiña',s,giinya,JLC;ND;VP;RGL03;RLC04;RLC10
+E0463,zai,guiiña' bidxi,s,giinya bidxi,RLC14
+E0456,zai,guiiña' chilianchu,s,(giinya) chilya*nchu,RGL03;RLC10
+E0455,zai,guiiña' curadu,s,giinya kura*du,RGL03;RLC10
+E0457,zai,guiiña' dxuladi,s,giinya dxu-la!di,RGL03;RLC10
+E0459,zai,guiiña' huajiyu,s,(giinya) waji*yu,RGL03;RLC10
+E0592,zai,guiiña' jalapeñu,s,guiinya jalape*nyu,RGL03;RLC10
+E0458,zai,guiiña' so'pe',s,giinya so!7pe,RGL03
+E0460,zai,guiiña' xcuuchu',s,(giinya) x.kuu*chu*,RLC04;RLC10
+E0462,zai,guiiña' yaa,s,giinya yaa,JLC;RLC10
+E0468,zai,guitu,s,gitu,EJG;JLC;ND;VP;RLC04;RLC10
+E0469,zai,guitu bidxi,s,gitu bidxi,JLC;RLC10
+E0470,zai,guitu biziña,s,gitu bi-zinya*,EJG;ND
+E0472,zai,guitu chuga,s,gitu chuga,JLC;RLC10;VC17
+E0473,zai,guitu dxiña,s,gitu dxinya,EJG;ND;RLC10
+E0474,zai,guitu huiini',s,gitu wiini,RGL03;RLC04;RLC10;VC17
+E1121,zai,guitu nisa,s,gitu nisa,RLC14
+E0475,zai,guitu ro',s,gitu ro!7,RLC04;RLC10
+E0477,zai,guitu xembe',s,gitu zhembe!7,EJG;JLC;ND;VP;RLC10;RLC14;VOT14;VC17
+E1229,zai,guitu xiga,s,gitu=zhiga,ND;VC17
+E0479,zai,guitu yanni,s,gitu ya!nni,JLC;RGL03;RLC10;FSL15
+E0480,zai,guitu yu'la,s,gitu yu!7la,RGL03;RLC04;RLC10
+E0484,zai,guixi,s,gizhi,EJG;JLC;VP;RGL03;RLC04;RLC10;VC17
+E1135,zai,guixi bandui',s,gizhi ba-ndwi*7,FSL14
+E0487,zai,guixi bataa,s,gizhi ba-taa*,JLC;RGL03;RLC10;VC17
+E0488,zai,guixi beede,s,gizhi beede*,EJG;JLC;RLC10
+E0489,zai,guixi beu,s,gizhi bewu*,JLC;VP;RLC10;FSL15
+E0492,zai,guixi bi'cu',s,gizhi bi7ku,FSL15
+E0494,zai,guixi donda,s,gizhi donda,EJG;JLC;VP;RLC10;FSL14;RLC14;FSL15
+E0495,zai,guixi doo,s,gizhi doo,FSL14
+E0496,zai,guixi ga',s,gizhi ga!7,VP;RLC10
+E0486,zai,guixi guba'ya',s,gizhi (g)u-ba!7ya,RLC10;FSL14;FSL17
+E0485,zai,guixi guendaro,s,gizhi genda+ r.o,RLC04;RLC10
+E0498,zai,guixi laguna,s,gizhi lagu*na,FSL12
+E0499,zai,guixi nisa,s,gizhi nisa,RGL03;RLC04;RLC10
+E0500,zai,guixi nite,s,gizhi nite,JLC;RGL03;RLC10
+E1191,zai,guixi niñu,s,gizhi ni*nyu,VC17
+E0501,zai,guixi para gaze ne,s,gizhi para g.a!ze ne*,RLC04;RLC10
+E0053,zai,guixi paral,s,(gizhi) pa-ra!l,RLC10
+E0503,zai,guixi ra chupa,s,gizhi ra! chu*pa*,JLC;RLC10;FSL12;FSL15;FSL16
+E0055,zai,guixi sacaton,s,(gizhi) saka-to!n,RLC10
+E1070,zai,guixi tini,s,gizhi tini,FSL15
+E1169,zai,guixi xiaa,s,gizhi zhyaa*,FSL15
+E0509,zai,guixi yaa,s,gizhi yaa,VP;RLC10
+E0508,zai,guixi yanu,s,gizhi ya*nu,RLC10
+E0512,zai,guixi zee,s,gizhi zee,EJG;RLC10;RLC14
+E1071,zai,guixi zidi laguna,s,gizhi zidi lagu*na,FSL14;RLC14
+E0515,zai,gunixhi',s,gu-nixi!7,EJG;JLC;VP;RLC10;RLC14;VC17
+E0516,zai,gunixhi' de guba gui,s,gu-nixi!' de+ gu-ba* gi^,JLC;RLC10
+E0517,zai,guñe,s,gunye,EJG;ND;VC17
+E0580,zai,huaje,s,wa*je,FSL15
+E1243,zai,huanabana cha'hui',s,wana*bana cha!7wi,VC17
+E0583,zai,huanabana gui'xhi',s,wana*bana gi7xi,BSL12
+E0579,zai,huaya,s,wa*ya,VOT12
+E0584,zai,huayaba,s,waya*ba,RLC10
+E1103,zai,huele de noche,s,welede-no*che,FSL13
+E0587,zai,igu',s,igu!7,RLC04;RLC10;RLC14
+E1087,zai,inchahuebo,s,inchawe*bu,FSL14;FSL15
+E0588,zai,ineldu,s,ine*ldu,RLC04;RLC10;VC17
+E0589,zai,ique bandaga,s,ike ba-ndaga,RGL03;RLC04;RLC10;VC17
+E1225,zai,ique bato' yaga,s,ike ba-to7 yaga,VC17
+E0590,zai,ique yaga,s,ike yaga,RGL03;RLC10
+E0593,zai,jasmin,s,ja-smi!n,RLC04;RLC10
+E0603,zai,jñaa bi,s,j.nyaa* bi,FSL12
+E1098,zai,jñaa nisa,s,j.nyaa* nisa,FSL13
+E0514,zai,la bere',s,la* bere!7,EJG;JLC;ND;VP;RLC10;FSL14;FSL15;RLC15;VOT15
+E0605,zai,la bere' guie,s,la* bere!7 gye,RLC10
+E0606,zai,la gu,s,la* gu*,FSL12;FSL15;RLC15
+E1190,zai,la',s,la7,VC17
+E0613,zai,la'dxi',s,la7dxi,ND;RGL03;RLC10
+E1250,zai,la'dxi' nite,s,la7dxi nite,RGL03;FSL14;RLC14
+E0615,zai,la'dxido' guie',s,la7dxi=do7 gye7,RGL03;FSL14;RLC14
+E0616,zai,la'dxido' yaga,s,la7dxi=do7 yaga,RGL03;RLC10
+E0620,zai,la'pa' che le'cu',s,la7pa che!+ le7ku,JLC;RLC04;RLC10;BSL12;FSL12;FSL15;VOT15
+E0622,zai,la'pa' guiichi,s,la7pa giichi*,RLC10
+E0623,zai,la'sa',s,la7sa,VP;RLC10
+E0624,zai,la'sa' bere,s,la7sa bere,RGL03;FSL15
+E0625,zai,la'sa' biduaa,s,la7sa bi-dwaa,RGL03;RLC10;VC17
+E0626,zai,la'sa' bidxiña,s,la7sa bi-dxinya*,JLC
+E0627,zai,la'sa' yu,s,la7sa yu,JLC;VP;RLC10;CS12
+E0628,zai,la'sa' yu dani,s,la7sa yu dani*,JLC;FSL14
+E0631,zai,la'sa' yu muradu,s,la7sa yu mora*du,FSL12
+E0629,zai,la'sa' yu te,s,la7sa yu te,VOT12
+E0610,zai,labaplatu,s,labapla*tu,RLC04;RLC10;BSL12;FSL12;VOT14;FSL15;VOT15;FSL16
+E0633,zai,laurel,s,law-re!l,RLC04;RLC10
+E0635,zai,lechuga gui'xhi',s,lechu*ga gi7xi,BSL12
+E0636,zai,lenteja,s,lente*ja,RGL03;RLC04;RLC10;VC17
+E0637,zai,lima,s,li*ma,RLC04;RLC10;VC17
+E0642,zai,limon dulse,s,limondu*lse,RLC04;RLC10
+E0639,zai,limon huiini',s,li-mo!n wiini,RLC04;RLC10
+E0640,zai,limon ngola,s,li-mo!n ngo*la,RLC04;RLC10
+E0641,zai,limon ro',s,li-mo!n ro!7,RLC04;RLC10
+E0643,zai,limun,s,li-mu!n,JLC;RLC04;RLC10
+E0644,zai,lindatarde,s,lindata*rrde,RLC04;RLC10
+E0645,zai,liriu,s,li*ryu,JLC;RLC10
+E1208,zai,lu bandaga,s,lu ba-ndaga,VC17
+E0648,zai,lu tui',s,lu twi*7,RGL03;RLC04;RLC10
+E0650,zai,luba',s,lu-ba7,EJG;JLC;ND;VP;RGL03;RLC04;RLC10
+E1079,zai,luba' alambre,s,lu-ba7 ala*mbre,FSL12
+E0653,zai,luba' be'te',s,lu-ba7 be7te,JLC;RLC10;RLC14;VOT14;FSL15;RLC15;VOT15
+E0651,zai,luba' beenda',s,lu-ba7 beenda,JLC;RLC10
+E0057,zai,luba' bizaa,s,lu-ba7 bi-zaa,JLC;RLC10;RLC14
+E0056,zai,luba' biña',s,(lu-ba7) bi-nya*7,JLC;RLC10;RLC14;VC17
+E1084,zai,luba' chorisu,s,lu-ba7 chori*su,FSL13;RLC14
+E0655,zai,luba' estropaju,s,lu-ba7 estropa*ju,FSL13
+E0656,zai,luba' golondrina,s,(lu-ba7) golondri*na,RGL03;RLC04;RLC10;FSL15;RLC15;VOT15;FSL16
+E0657,zai,luba' gu,s,lu-ba7 gu,JLC;RGL03;RLC10
+E0652,zai,luba' guie' begu,s,(lu-ba7) gye7 begu*,JLC;RLC10;FSL15
+E0058,zai,luba' guitu,s,lu-ba7 gitu,JLC;RLC10
+E0659,zai,luba' guitu xembe',s,lu-ba7 gitu zhembe!7,JLC;RLC10;FSL14;RLC14;VOT14
+E0059,zai,luba' jicama,s,lu-ba7 ji*ka-ma,JLC;RLC10
+E0060,zai,luba' melon,s,lu-ba7 me-lo!n,JLC;RLC10
+E0662,zai,luba' nisa,s,lu-ba7 j.nyaa* nisa,FSL14
+E0061,zai,luba' pepinu,s,lu-ba7 pepi*nu,JLC;RLC10
+E1081,zai,luba' quichi',s,lu-ba7 kichi!7,FSL14
+E0664,zai,luba' rii,s,lu-ba7 rii,JLC;FSL14
+E1078,zai,luba' tini,s,lu-ba7 tini,FSL14
+E0667,zai,luba' uba,s,lu-ba7 u*ba,JLC;RLC10
+E0063,zai,luba' xandie,s,lu-ba7 zha-ndye!,JLC;RLC10
+E0064,zai,luba' xcu'du',s,(lu-ba7) x.ku!7du ~ x.ku7du,JLC;RLC04;RLC10
+E0065,zai,luba' yape,s,lu-ba7 yape,JLC;RLC10
+E0670,zai,ludxi baca,s,ludxi* ba*ka,JLC;VC17
+E0649,zai,luxu,s,luzhu*,ND;FSL14
+E0096,zai,madu xhcu',s,madu! xcu',EJG;ND;VC17
+E0675,zai,maguey,s,ma-ge!y,RLC04;RLC10
+E1114,zai,mala madre,s,malama*dre,FSL14
+E0677,zai,mandarina,s,mandari*na,RLC04;RLC10
+E0673,zai,mango,s,ma*ngo,RLC04;RLC10
+E0674,zai,mango ataulfu,s,ma*ngo atawu!lfu,FSL12
+E0678,zai,mangu byuxe,s,ma*ngu byu*zhe*,BSL12
+E0679,zai,mangu piña,s,ma*ngu pi*nya,BSL12;VOT12
+E1249,zai,mangu yaa,s,ma*ngu yaa,VC17
+E0682,zai,mansana,s,mansa*na,JLC;RGL03;RLC04;RLC10
+E0683,zai,mansania,s,mansa-nya!,JLC;RGL03;RLC04;RLC10
+E1112,zai,mantu,s,ma*ntu,FSL14;RLC14
+E0681,zai,manu de lion,s,ma*nu de+ lyo!n,RLC04;RLC10
+E0685,zai,marabia,s,mara-bya!,CT12;RLL14
+E0686,zai,matabuey,s,mata-bwe!y,RLC04;RLC10;FSL12
+E1113,zai,mañanita,s,manyani*ta,FSL14
+E0688,zai,melon,s,me-lo!n,RGL03;RLC10
+E0689,zai,melon cha'hui',s,me-lo!n cha!7wi,RLC04;RLC10;RLC14;VOT14
+E0690,zai,melon gui'xhi',s,me-lo!n gi7xi,RLC10
+E0691,zai,melon huajaca,s,me-lo!n waja*ka,RLC10
+E0692,zai,mota,s,mo*ta,RLC04;RLC10
+E0693,zai,mudu,s,mudu*,JLC;ND;RGL03;RLC10
+E0695,zai,mudubina,s,mudubi*na,ND;RGL03;RLC10;FSL15;RLC15;VOT15
+E1248,zai,muni,s,muni!,JLC;RLC10
+E0696,zai,na' yaga,s,na*7 yaga,RLC04;VC17
+E0698,zai,nanchi,s,na*nchi,JLC
+E0699,zai,nanchi chaahui',s,na*nchi chaawi,VOT12
+E0700,zai,nanchi gui'xhi',s,na*nchi gi7xi,VP;RGL03;RLC10;FSL12
+E0701,zai,nanchi lula',s,na*nchi lu-la!7,JLC;RLC04;RLC10
+E0702,zai,naranja,s,nara*nja,RLC04;RLC10
+E1316,zai,nareela,a,na-reela*,EJG;VP;RLC04
+E0794,zai,narru zaa,a,(na-)rru zaa*,JLC
+E0703,zai,nateede',a,na-teede*,JLC;RLC10
+E0843,zai,naxada,a,(na-)zha!da,JLC;ND;RLC10
+E0337,zai,naziña,a,na-zinya,RGL03;RLC10;VC17
+E0709,zai,ndaani' nite,s,ndaani nite,RGL03;FSL14;RLC14
+E0707,zai,ndaani' yaga,s,ndaani yaga,RGL03;RLC10
+E0708,zai,ndaga,s,ndaga,EJG;ND;RLC10
+E1214,zai,ndu,s,ndu,EJG;VC17
+E0712,zai,ngaaxi',s,ngaazhi,EJG;RGL03;RLC10;VC17
+E1253,zai,ni rigu'ba guixi,R,ni r.i-g.u7ba gizhi,JLC;RLC10
+E0714,zai,ni rucui guixi,R,ni r.u-kwi gizhi,JLC;RLC10
+E0717,zai,niidxi,s,niidxi*,EJG;VP;RLC10
+E0718,zai,niidxi huada',s,niidxi* wada!7,JLC;RLC10
+E0719,zai,nisa arnica,s,nisa a*rrni-ka,RGL03;RLC04;RLC10
+E1256,zai,nisa biga raagu',s,nisa biga raagu,VC17
+E0720,zai,nisa canela,s,nisa kane*la,RLC04
+E0721,zai,nisa coco,s,nisa ko*ko,RLC04
+E1254,zai,nisa dxu'ni' arnica,s,nisa dxu!7ni a*rrni-ka,RGL03;VC17
+E1196,zai,nisa dxu'ni' xuba',s,nisa dxu!7ni zhuba!7,VC17
+E0723,zai,nisa mansania,s,nisa mansa-nya!,RLC04;RLC10
+E1255,zai,nisa naga'nda',s,nisa na-ga!7nda,VC17
+E0728,zai,nite,s,nite,EJG;JLC;ND;VP;RLC04;RLC10
+E0726,zai,nite bere',s,nite be-re*7,EJG;JLC;ND;VP;RLC10;RLC14;VOT14
+E0727,zai,nite guela,s,nite gela,EJG;JLC;ND;RLC04;RLC10
+E1257,zai,nite guie',s,nite gye7,VC17
+E0066,zai,nite paral,s,(nite) pa-ra!l,RLC10
+E0097,zai,nite yaza,s,nite yaza,EJG;ND;VC17
+E0729,zai,niza,s,niza,EJG;JLC;ND;VP;RLC10
+E0730,zai,niza huayachi,s,niza wa-ya!chi,RLC10;VC17
+E0732,zai,nochebuena,s,nochebwe*na,RLC04;RLC10
+E0733,zai,noni,s,no*ni,RLC12
+E1109,zai,nube,s,nu*be,RLC14
+E0734,zai,nube gui'xhi',s,nu*be gi7xi,FSL12;RLC12
+E0739,zai,ojasen,s,oja-se!n,VOT12
+E0740,zai,oregano,s,ore*gano,RLC04;RLC10
+E0301,zai,orqueta,s,orke*ta,RGL03;RLC04;RLC10
+E1085,zai,orquidia,s,orr-ki*dya,FSL14
+E1089,zai,palo blanco,s,palobla*nku,FSL14
+E1150,zai,palo mulato,s,palo mula*to,FSL15
+E0741,zai,papa,s,pa*pa,JLC;RGL03;RLC10
+E0745,zai,papause,s,papa!wu-se,JLC;RLC04;RLC10
+E0742,zai,papaya,s,papa*ya,RGL03;RLC04;RLC10;RLC14
+E0749,zai,paraisu,s,parayi*su ~ para!ysu,JLC;RLC04;RLC10;RLC12;VOT12;FSL15;RLC15
+E0747,zai,parawa xti' bidxi',s,para*wa x.ti*' bi-dxi!7,RLC04;RLC10
+E0748,zai,parawita,s,parawi*ta,RLC04;RLC10
+E0750,zai,pe'pe',s,pe7pe,JLC;ND;RLC10
+E1236,zai,pe'pe' bacua',s,pe7pe ba-kwa*7,VC17
+E0752,zai,pe'pe' rini,s,pe7pe ri*ni,JLC;RLC10;FSL12;VC12;RLC14
+E0753,zai,pe'pe' rini duubi',s,pe7pe (ri*ni) duubi,FSL12
+E0754,zai,pepinu gui'xhi',s,pepi*nu gi7xi,RLC10
+E0755,zai,pepinu huiini',s,pepi*nu wiini,JLC;RLC10
+E0760,zai,pichiinchi yu,s,pi-chii*nchi* yu,RGL03;RLC10;ATR12
+E0764,zai,pimienta,s,pimye*nta,RLC04;RLC10
+E0763,zai,pimienta gui'xhi',s,pimye*nta gi7xi,FSL13
+E0756,zai,pinu,s,pi*nu,RLC04;RLC10
+E0757,zai,pitu nisiaaba',s,pi!tu nis=y.aaba,JLC;RLC10
+E0772,zai,punta bandaga,s,pu*nta ba-ndaga,RGL03;RLC04;RLC10
+E1284,zai,ra,v:i,-a,EJG;VP;RLC07
+E1294,zai,raana,vB:t,-aana,EJG;JLC;ND;VP;RLC07
+E1295,zai,raande,vA:i,-aande,VC17
+E1289,zai,raca curar,vC:i,-aka=ku-ra!r,JLC;RLC07;RLC11
+E1288,zai,raca guela,vC:i,-aka=gela,EJG;RLC07
+E1287,zai,raca niza,vC:i,-aka # niza,RLC07
+E1286,zai,rachexqui',vC:i,-ache=x.ki7,EJG;JLC
+E1285,zai,rachendu,vC:i,-ache=ndu,EJG;ND;RLC04;RLC07;VC17
+E1290,zai,rala,vC:i,-alla,EJG;JLC;ND;VP;RGL03;RLC04;RLC07
+E1291,zai,rala zee,vC:i,-alla=zee,EJG;RGL03
+E0783,zai,rama huiini',s,rra*ma wiini,RGL03;RLC04;RLC10
+E1293,zai,raxha de xcu,vC:t,-axa # de+ x.ku,JLC
+E1292,zai,re gaana,v and,AND+ g.aana*,EJG
+E1347,zai,riaande',vA:i,-y.aande,JLC;VP
+E1343,zai,riaba beenda',vA:i,-y.aba=beenda,JLC;RLC07
+E1344,zai,riaba bi'xu',vA:i,-y.aba=bi7xu,EJG;RLC07
+E1345,zai,riacha xuba',vA:i,-yacha=zhuba!7,EJG
+E1346,zai,riale',vA:i,-y.alle!7,EJG;ND;VP;RLC09
+E1296,zai,ribagu,vD:t,-b.agu,EJG;JLC;VP
+E1297,zai,ribee biidxi',vD:t,-b.ee* # biidxi,
+E1299,zai,ribee biitu,vD,-b.ee*=biitu*,JLC;RGL03
+E0150,zai,ribee du,vD:t,-b.ee* # du,JLC;RLC10
+E1298,zai,ribee guela,vD:t,-b.ee* # gela,JLC;RGL03
+E1269,zai,ribee xcui,vD:t,-b.ee* # x.kwi,VC17
+E1300,zai,ribee ya,vD:t,-b.ee*=ya,EJG
+E1301,zai,ribi'xu',vA,-bi7xu,EJG;ND;VP
+E1313,zai,rica be,vBirr:i,-ka=be,EJG;RLC07
+E1312,zai,rica bi'xu',vBirr:i,-ka # bi7xu,EJG;RLC07
+E0035,zai,rica guie',vBirr:i,-ka=gye7,JLC;RLC10;VC17
+E1315,zai,rica yu,vBirr:i,-ka=yu,JLC;RLC07
+E1302,zai,richeza layu,vB:caus,-cheza # la=yu,EJG;JLC;ND;VP
+E1303,zai,ridi'di' ya,vC:i,-di7di=ya,EJG;RLC17
+E1304,zai,ridxaaga' niza,vA:i,-dxaaga* # niza,EJG;VC17
+E0776,zai,riga,s,riga,VP;RLC10
+E1305,zai,riga',vA,-ga7,JLC;ND;VP;RLC17
+E1307,zai,rigui'ba' biidxi',vD:i,-g.i7ba=biidxi,EJG;RLC07;RLC17
+E1271,zai,riguiche xiiñi',vD,-g.iche=zhiinyi,VC17
+E1306,zai,riguiche xqui',vD:t,-g.iche=x.ki7,EJG;JLC;RGL03;RLC07
+E1308,zai,riguiibi'  xuba',vD:t,-g.iibi # zhuba!7,JLC;RLC17
+E1310,zai,riguu biní,vD:t,-g.uu # bi-ni,EJG;JLC;VP
+E1311,zai,riguundu',vA:i,-guundu,EJG;JLC;VP;RLC04
+E1319,zai,rindaa layu,vB:caus,-ndaa* # la=yu,JLC;RLC07;RLC17
+E1317,zai,rindadi' niza,vB:caus,-ndadi!7 # niza,EJG;JLC;VP
+E1318,zai,rindani,vB:i,-ndani,EJG;JLC;VP;RGL03
+E0036,zai,riree mudu,vA:i,-r.ee=mudu*,VP;RLC14
+E1320,zai,rireeche cuaananaxhi,vA:caus,-reeche* # kwaana=naxi,EJG
+E1279,zai,riuudxu',vA:i,-y.uudxu,RLC04
+E1348,zai,riuundu',vA:i,-y.uundu,JLC
+E1342,zai,rixhii,vA:i,-xii,EJG;ND
+E1349,zai,rixuuba' niza,vA~C:t,-zhuuba # niza,EJG;JLC;VP;RGL03;RLC04
+E0779,zai,rosieda,s,rrosye-da!,AV12
+E0780,zai,rrabano,s,rra*ba-no,RGL03;RLC10
+E0781,zai,rrama,s,rra*ma,RGL03;RLC04;RLC10
+E0785,zai,rrepoyo,s,rrepo*yo,JLC;RLC10
+E0786,zai,rroble,s,rro*ble,RLC04;RLC10
+E0791,zai,rromeru,s,rrome*ru,RLC04;RLC10
+E0789,zai,rrosa clabel,s,rro*sa kla-be!l,RLC04;RLC10
+E0790,zai,rrosa de castia,s,rro*sa de ka-stya!,RGL03;RLC04;RLC10
+E0792,zai,rruda,s,rru*da,JLC;RGL03;RLC04;RLC10
+E0795,zai,ruaa bandaga,s,rwaa ba-ndaga,RGL03;RLC10;VC17
+E1326,zai,rucaa gixi,vA:caus,-u-kaa # gizhi,EJG
+E1270,zai,ruchuxhi,vA:caus,-u-chuxi*,VC17
+E1321,zai,ruchuxi niza,vA:caus,-u-chuxi* # niza,RLC04
+E1322,zai,rudxiiba biní,vA:caus,-u-dx.iiba # bi-ni,JLC
+E1323,zai,rugu'ba' geza,vA:caus,-u-g.u7ba # geza,EJG
+E1324,zai,ruguu gu'xu',vA:caus,-u-g.uu gu7xu,RLC04
+E1325,zai,ruguu ya,vA:caus,-u-g.uu=ya,
+E1328,zai,runi xuba',vA,-uni # zhuba!7,EJG;JLC
+E1327,zai,rucui gixi,vA:caus,-u-kw.i # gizhi,JLC;RLC09;VC17
+E1309,zai,ruquiiba',vA:caus,-u-k.iiba,
+E1329,zai,rusiga',vA:caus,-u-si-ga!7,JLC;RLC09
+E1330,zai,rusiguundu',vA:caus,-u-si-guundu,EJG;JLC;VP;RLC09
+E1331,zai,rusiteede,vA:caus,-u-si-teede*,EJG;ND;RLC09
+E1339,zai,rusiu'dxu',vA:caus,-u-s.y.u7dxu,EJG;JLC;VP;RLC09
+E1332,zai,rutopa yaga,vA:caus,-u-topa* # yaga,EJG
+E1340,zai,ruutu',vA:t,-uutu,EJG;JLC;ND;VP;RGL03;RLC09
+E1333,zai,ruzaande' xuba' niyaa,vA:caus,-u-zaande # zhuba!7 ni-yaa*,EJG;JLC;RLC09
+E1335,zai,ruzaande' zhu-baande',vA:caus,-u-z.aande zhu-b=a!ande,EJG
+E1334,zai,ruzaande' ñe yaa,vA:caus,-u-zaande nye* yaa,EJG;RLC09
+E1336,zai,ruzeechu' gixi,vA:caus,-u-z.eechu # gizhi,VC17
+E0797,zai,sa gue'la',s,sa! ge7la,FSL12
+E0804,zai,safiate,s,sa-fya*te,RLC04;RLC10
+E0803,zai,safras,s,sa-fra!s,RLC04;RLC10
+E0805,zai,salbarial,s,salba-rya!l,CS12
+E1101,zai,samanina,s,samani*na,FSL14;RLC14
+E0806,zai,san juan,s,san-jwa!n,FSL14;RLC14
+E1088,zai,sana,s,sana,FSL14
+E0808,zai,sapa ndu,s,sapa ndu,EJG;JLC;ND;VP;RGL03;RLC07;RLC10
+E0809,zai,sapatu duende,s,sapa*tu dwe*nde,FSL13
+E1128,zai,sapotiu,s,sapo-tyu!,FSL13
+E1176,zai,seboya,s,sebo*ya,JLC;RLC10
+E1263,zai,seboya guixi,s,sebo*ya gixi,VC17
+E0812,zai,seboya moradu,s,sebo*ya mora*du,RLC04;RLC10
+E0811,zai,seboya nisa,s,sebo*ya nisa,FSL14
+E0810,zai,sedru,s,se*dru,JLC;RLC04;RLC10
+E1192,zai,semia,s,se-mya!,VC17
+E1111,zai,seresa,s,sere*sa,FSL13
+E0821,zai,siemprebiba,s,syemprebi*ba,RLC04;RLC10
+E0816,zai,silantru,s,sila*ntru,RGL03;RLC10
+E0358,zai,sinconegritos,s,sinkonegri*tos,JLC;FSL14
+E1213,zai,sinta,s,si*nta,VC17
+E0818,zai,sorgo,s,so*rgo,JLC;RLC10
+E0822,zai,taangu ta beela,s,taa*ngu* ta! bee*lla*,JLC;RLC10;FSL12;RLC12;VOT12
+E1276,zai,taberna',s,tabe-rrna!7,VC17
+E1073,zai,tamarindiu,s,tamari-ndyu!,FSL14
+E0824,zai,tamarindu,s,tamari*ndu,JLC;RLC10
+E0825,zai,tamburete,s,ta-mbu!+rete,JLC;RGL03
+E1080,zai,tau cuuni,s,tawu!7 kuuni*,JLC;RLC10;FSL12;FSL14
+E1067,zai,te cimarron,s,te! sima-rro*n,FSL14
+E0829,zai,te limon,s,te! li-mo!n,JLC;RLC04
+E0830,zai,teede,s,tee*de*,JLC;RLC10
+E0832,zai,teresita,s,teresi*ta,RLC04;RLC10
+E0835,zai,ti'xhi yaga,s,ti7xi yaga,JLC;RLC10;VC17
+E0833,zai,tini,s,tini,JLC
+E1266,zai,trompi'pi',s,tro-mpi!7pi,VC17
+E0837,zai,trompo'po',s,tro-mpo!7po,EJG;JLC;ND;VP;RLC07;RLC10;FSL14;RLC14;RLL14
+E0839,zai,tulipan,s,tuli-pa!n,RLC04;RLC10;CS12
+E0840,zai,tulipan gui'xhi',s,tulipa!n gi7xi,BSL12;FSL12
+E0838,zai,tule,s,tu*lle,JLC;RGL03;RLC10;FSL12;VC17
+E1207,zai,xa'na' bandaga,s,zha7na ba-ndaga,VC17
+E0844,zai,xa'na' guie',s,zha7na gye7,RGL03;RLC04;RLC10
+E0845,zai,xandie,s,zha-ndye!,EJG;VP;RGL03;RLC10
+E0852,zai,xcancha yaga,s,x.kaa*ncha* yaga,JLC;RLC10;RLC14;VC17
+E0853,zai,xcola beenda',s,x.ko*lla beenda,JLC;RLC10
+E0855,zai,xcola ziña,s,x.ko*lla zinya,RGL03;RLC04;RLC10
+E0858,zai,xcu,s,x.ku,EJG;VP;RGL03;RLC04;RLC10
+E0859,zai,xcu be'te',s,x.ku be7te,JLC;FSL12;RLC14;VOT14;FSL15;RLC15;VOT15
+E0861,zai,xcu cue' yaga,s,x.ku kwe7 yaga,RGL03;RLC04;RLC10
+E0862,zai,xcu guitu xembe',s,x.ku gitu zhembe!7,JLC
+E0863,zai,xcu huiini',s,x.ku wiini,RGL03;RLC04;RLC10
+E0864,zai,xcu mayor,s,x.ku ma-yo!rr,RGL03;RLC04;RLC10
+E0865,zai,xcu nite,s,x.ku nite,JLC;RLC10
+E0867,zai,xcu ziña,s,x.ku zinya,JLC;RLC10
+E0883,zai,xcuaana',s,x.kwana!7,RLC10;VC17
+E0875,zai,xcuaana' bata,s,x.kwa(a)na bata,JLC;VP;VC17
+E0876,zai,xcuaana' be'za yaga,s,x.kwaana be'za yaga,JLC;RLC10;RLC14
+E0877,zai,xcuaana' bi'cu' yu'ba',s,x.kwaana bi7ku (yu!7ba),EJG;JLC;ND;RLC10;FSL15
+E0878,zai,xcuaana' biichi,s,x.kwaana biichi*,EJG;RLC10;FSL12;RLC14;FSL15
+E0882,zai,xcuaana' gui'xhi',s,x.kwaana gi7xi,EJG;RLC10;VC17
+E0880,zai,xcuaana' guiyu,s,x.kwaana gi!yu,FSL13
+E0884,zai,xcui,s,x.kwi,JLC;VC17
+E0871,zai,xcuuchi,s,x.kuuchi*,EJG;JLC;VP;RGL03;RLC04;RLC10;RLC14;VOT14;VC17
+E0847,zai,xeedxe',s,zheedxe ~ zheedxe wiini,EJG;JLC;VP;RLC04;RLC10;FSL12;FSL17
+E0851,zai,xhaga la,s,xaga! la*,EJG;JLC;ND;VP;RLC10;FSL14
+E0886,zai,xhidxi huada',s,x.zhidxi wada!7,RLC10;BSL12;FSL12;VOT12
+E1096,zai,xhidxiña,s,xi dxi*nya*,FSL14
+E0909,zai,xhtuza niñu,s,x.tuuza ni*nyu,RLC04;RLC10;FSL14;VC17
+E1051,zai,xiaa,s,zhyaa*,EJG;JLC;ND;VP;RGL03;RLC10
+E1052,zai,xiaa tule,s,zhyaa* tu*lle,RGL03;RLC10
+E0913,zai,xiga,s,zhiga,EJG;JLC;VP;RLC04;RLC10
+E0914,zai,xiga ba,s,zhiga ba,EJG;JLC;VP;RLC10
+E0915,zai,xiga be,s,zhiga be,EJG;JLC;VP;RLC10;RLC14;VC17
+E1252,zai,xiga bidxaxa,s,zhiga bi-dxa*dxa*,VC17
+E1259,zai,xiga bizunu,s,zhiga bi-zunu,VC17
+E0916,zai,xiga giiru',s,zhiga giiru,JLC;RLC10
+E0917,zai,xiga gueta,s,zhiga geta,JLC;RLC10;VOT14
+E0711,zai,xiga ndo'pa',s,(zhiga) ndo!7pa,EJG;VP;RLC10;RLC14;VOT14;VC17
+E0920,zai,xiiñi',s,zhiinyi,JLC;RGL03;RLC10
+E0921,zai,xiiñi' biduaa,s,zhiinyi bi-dwaa,RGL03;RLC04;RLC10;VC17
+E0924,zai,xiiñi' nisa,s,zhiinyi nisa,JLC;VC17
+E0598,zai,xla'sa' luba',s,x.la7sa lu-ba7,FSL14
+E0597,zai,xlasa bizaa,s,x.laza bi-zaa,JLC;RLC10
+E1023,zai,xlaza,s,j.laza,JLC;RLC10;FSL14
+E0599,zai,xlo'mo' ziña,s,j.lo!7mo zinya,RLC10
+E1024,zai,xluxu,s,j.luzhu,ND;VP;RLC10
+E0601,zai,xnisa cuananaxhi,s,j.nisa kwaana=naxi,JLC;RLC10
+E0602,zai,xnisa nite,s,j.nisa nite,JLC;RLC10;VC17
+E1137,zai,xolo,s,zhollo,EJG;JLC;RLC04;RLC10;ATR14;RLC14;VOT14;FSL15;VOT15
+E0890,zai,xpata,s,x.pata,ND;VP;RLC10;VC17
+E0146,zai,xpata ziña,s,x.pata zinya,EJG;ND;RLC10;VOT14;VC17
+E0893,zai,xqui' baca,s,x.ki' ba*ka,JLC;RLC10
+E0067,zai,xquicha na ahuela,s,(x.)gicha (na!) (a)we*la,JLC;RLC10;FSL14;VC17
+E1194,zai,xquie' bi'cu',s,x.kye7 bi7ku,VC17
+E0900,zai,xquixhi' mani',s,x.kixi!7 mani!7,EJG;JLC;ND;VP;RLC10
+E0902,zai,xquixi bizaa,s,x.kizhi bi-zaa,JLC;RLC10;VC17
+E1272,zai,xquixi seboya,s,x.kizhi sebo*ya,VC17
+E0903,zai,xtaa biiu',s,x.taa biiwu*7,FSL12
+E0819,zai,xtaga be'ñe',s,"(gye7) x.taga be!7nye, x.taga be!7ny, s.taga be!7nye [FSL12]",JLC;ND;RLC;VP;RLC10;FSL12;FSL15
+E0905,zai,xtoope,s,x.too*pe*,RLC10;MLC14;RLC14;FSL15
+E1211,zai,xtoope binni dxaba',s,x.too*pe* binni* dxaba!7,VC17
+E0907,zai,xtropaju,s,xtropa*ju,JLC;RLC10
+E1039,zai,xuba quichi',s,zhuba!7 kichi7,RLC10;VC17
+E1029,zai,xuba',s,zhuba!7,EJG;JLC;VP;RLC04;RLC10
+E1033,zai,xuba' bidxi,s,zhuba!7 bidxi,JLC;RLC10;VC17
+E1034,zai,xuba' cubi,s,zhuba!7 ku*bi,RLC05;RLC10;VC17
+E1035,zai,xuba' de,s,zhuba!7 de,JLC;RLC10;VC17
+E1036,zai,xuba' guchi,s,zhuba!7 guchi,RLC10;VC17
+E1044,zai,xuba' huayachi,s,zhuba!7 wa-y.a!chi,EJG;RLC11;RLC14
+E1038,zai,xuba' moradu,s,zhuba!7 mora*du,RLC10;VC17
+E0377,zai,xuba' ni gudo beeyu,s,zhuba!7 ni gu-d.o beeyu*,RGL03;RLC04;RLC10;VC17
+E1275,zai,xuba' niyaa,s,zhuba!7 niyaa,GB17;VC17
+E1041,zai,xuba' rooba',s,zhuba!7 rooba,JLC;RLC10
+E1042,zai,xuba' rooba' dani,s,zhuba!7 rooba dani*,FSL13
+E1045,zai,xuba' xiña',s,zhuba!7 zhi-nya*7,RLC10
+E1047,zai,xuba' yuudxu',s,zhuba!7 yuudxu,RLC10;VC17
+E1030,zai,xuba' ziña,s,zhuba!7 zinya,EJG;JLC;ND;RLC10;RLC14;FSL15;RLC15;VOT15;VC17
+E0736,zai,xuba' ñe yaa,s,(zhuba!7) nye* yaa,ND;GB17
+E1048,zai,xubaande',s,zhuba!ande,JLC;RLC10;GB17
+E1197,zai,xuga,s,zhuga,VC17
+E1237,zai,yaala bido',s,yaalla* bi-do7,JLC;RLC10
+E1057,zai,yaala',s,yaalla*,EJG;JLC;ND;VP;RLC10;VC17
+E1059,zai,yaana',s,yaana,EJG;JLC;ND;VP;RLC10;VC17
+E0925,zai,yaga,s,yaga,EJG;JLC;ND;VP;RGL03;RLC10;RLC14;VOT14
+E0125,zai,yaga bacua',s,(yaga) ba-kwa*7,JLC;ND;RLC10;BSL12;FSL14
+E0126,zai,yaga bacua' dani,s,(yaga) ba-kwa*7 dani*,FSL14
+E1120,zai,yaga bacua' guchi,s,(yaga) ba-kwa*7 guchi,RLC14
+E1234,zai,yaga bacua' quichi',s,(yaga) ba-kwa*7 kichi!7,FSL17
+E0143,zai,yaga bara bacana',s,(yaga) ba*ra ba-kana!7,RGL03;RLC04;RLC10;FSL15;RLC15;VOT15
+E0116,zai,yaga bara seda,s,(yaga) ba*ra se*da,RLC10;FSL14;VOT14
+E1127,zai,yaga bara seda xiña',s,(yaga) ba*ra se*da zhi-nya*7,FSL14;RLC14
+E0927,zai,yaga beu',s,yaga beyu*7,JLC;RLC10;BSL12;FSL15;RLC15;FSL16
+E0938,zai,yaga bia,s,yaga bya,RLC04;RLC10;VC17
+E1148,zai,yaga biaa gueta,s,(yaga) byaa* geta,FSL16
+E0296,zai,yaga biaa gueta chaahui',s,(yaga) byaa* geta cha!7wi ~ byaa* geta chaawi ~ byaa* wiini,RLC04;RLC10;FSL15;VOT15
+E0295,zai,yaga biaa gueta gui'xhi',s,(yaga) byaa* geta gi7xi,EJG;JLC;VP;RLC04;RLC10;FSL16
+E0939,zai,yaga biaaui,s,yaga b.yaawi*,JLC;RLC10;VC17
+E0929,zai,yaga biadxi,s,yaga byadxi,EJG;JLC;ND;VP;RLC04;RLC10;VC17
+E0178,zai,yaga bichiisa,s,yaga bi-chii*sa*,EJG;JLC;ND;RLC10;VOT12;FSL14;FSL15;VOT15
+E1129,zai,yaga bichuga dxita,s,(yaga) bi-chuga dxita ~ bi-chuga dxita ~ bi-chuga,EJG;VP;RGL03;RLC10;FSL14
+E0930,zai,yaga biduaa,s,yaga bi-dwaa,JLC;RGL03;RLC10;VC17
+E0932,zai,yaga biga raagu',s,yaga biga raagu,JLC;RLC10;RLC14;VC17
+E0933,zai,yaga bii,s,yaga bii*,JLC;RLC04;RLC10;FSL15
+E0245,zai,yaga bioongo',s,(yaga) byoongo,EJG;JLC;VP;RLC04;RLC10;VOT15
+E0246,zai,yaga bioongo' dani,s,(yaga) byoongo dani*,FSL12
+E0248,zai,yaga biquiiche,s,(yaga) bi-kii*che*,EJG;VP;RLC10
+E0250,zai,yaga biquiiche dani,s,(yaga) bi-kii*che* dani*,FSL12
+E1178,zai,yaga biquiiche dxa',s,(yaga) bi-kii*che* dxa*7,VC17
+E0249,zai,yaga biquiiche quichi',s,(yaga) bi-kii*che* bla*nku,FSL12
+E0257,zai,yaga bitiaa,s,(yaga) bi-tyaa*,JLC;ND;VP;RGL03;RLC04;RLC10;RLC12;FSL15;RLC15
+E0770,zai,yaga bizi lanna',s,(yaga) bizi lanna!7,JLC;RGL03;FSL12;FSL14
+E0934,zai,yaga bojo,s,yaga bo*jo,RGL03;RLC04;RLC10;FSL14
+E0282,zai,yaga bramboyan,s,(yaga) brambo-ya!n,RLC04;FSL12;RLC12
+E0935,zai,yaga bugambilia,s,(yaga) bugambi*llya,JLC;RLC04;RLC10;RLC14
+E0286,zai,yaga bugambilia quichi',s,(yaga) bugambi*llya kichi!7,RLC04;RLC10
+E0287,zai,yaga bugambilia xiña',s,(yaga) bugambi*llya zhi-nya!7,RLC04;RLC10
+E0937,zai,yaga bui',s,yaga bwi*7,RLC04;RLC10;VC17
+E0936,zai,yaga buu,s,yaga buu*,RGL03;RLC10;FSL14
+E1283,zai,yaga canela,s,yaga dani* ~ yaga kane*la,RLC10;RLC14
+E0331,zai,yaga chu bi',s,(yaga) chu! bi7,EJG;JLC;ND;VP;RLC10;FSL15
+E0943,zai,yaga chuga,s,yaga chuga,BSL12
+E0332,zai,yaga chumaga muxe',s,(yaga) chu!-ma*ga muzhe!7,RLC10;FSL12
+E0333,zai,yaga chumaga nguiiu',s,(yaga) chu!-ma*ga ngi!yu7,JLC;RLC10;FSL15
+E0071,zai,yaga cobanu,s,(yaga) ko*ba+nu,JLC
+E0940,zai,yaga coco,s,yaga ko*ko,JLC;RLC04;VC17
+E0072,zai,yaga coros,s,yaga ko-ro!s,JLC;FSL14;RLC14
+E0941,zai,yaga cuaananaxhi,s,yaga kwaana=naxi,EJG;FSL14;RLC14
+E0944,zai,yaga dani,s,yaga dani* ~ yaga kane*la,RLC10;RLC14
+E0346,zai,yaga du'ga',s,(yaga) du!7ga,EJG;VP;RLC04;RLC10;RLC14;RLC15;VOT15
+E0074,zai,yaga dxima,s,(yaga) dxi*ma*,JLC;RLC10;FSL15
+E1094,zai,yaga dxima yuxi,s,(yaga) dxi*ma* yuzhi,FSL15
+E1264,zai,yaga giichi zhiga be,s,(yaga) giichi* zhiga be,JLC;RLC10
+E0946,zai,yaga granada,s,yaga grana*da,JLC;RLC10;RLC14;VC17
+E1077,zai,yaga granadiu,s,(yaga) grana-dyu!,JLC;RLC10
+E0078,zai,yaga guenda bidxu,s,(yaga) genda* bi*dxu*,JLC;RLC10;VC17
+E0948,zai,yaga guenda dxiña cha'hui',s,yaga genda* dxinya cha!7wi ~ yaga genda* dxinya ~ genda* dx^inya ~ enda* dxi^nya,JLC;VP;RLC04;RLC10;RLC14;FSL15;VOT15
+E0393,zai,yaga guesa,s,(yaga) ge*sa*,EJG;JLC;ND;VP;FSL14
+E0952,zai,yaga guie',s,yaga gye7,EJG;ND;VP;RLC10
+E0535,zai,yaga guie' cha'chi',s,(yaga) gye7 cha7chi,EJG;ND;VP;RLC04;RLC10;RLC14;FSL15;VOT15
+E0556,zai,yaga guie' niza,s,(yaga) gye7 niza,EJG;RGL03;RLC04;RLC10;CS12;VC12;FSL15;RLC15
+E0565,zai,yaga guie' tiiqui,s,(yaga) gye7 tiiki*,EJG;JLC;VC;RLC10;FSL15;VOT15
+E0576,zai,yaga guie' yaase',s,(yaga) gye7 yaase,EJG;JLC;VP;RLC10;RLC14;RLL14;VOT14
+E0950,zai,yaga guiiba',s,yaga giiba,VC17
+E0414,zai,yaga guiichi bateede,s,(yaga) giichi* ba-teede*,JLC;RLC10
+E0418,zai,yaga guiichi bele,s,(yaga) giichi* belle,RLC10
+E0435,zai,yaga guiichi biaa gueta,s,(yaga) giichi* byaa* geta,VP;RGL03;RLC04;RLC10;RLC14
+E0420,zai,yaga guiichi bidoorre,s,(yaga) giichi* bi-doo*rre*,JLC;VP;RLC10;FSL15;FSL16
+E0424,zai,yaga guiichi biduaa,s,(yaga) giichi* bi-dwaa,RLC14;FSL15;RLC15
+E1167,zai,yaga guiichi biduaa huiini',s,(yaga) giichi* bi-dwaa wiini,RLC14;FSL15;RLC15
+E1168,zai,yaga guiichi biduaa naro'ba',s,(yaga) giichi* bi-dwaa na-ro7ba,RLC14;FSL15;RLC15
+E0327,zai,yaga guiichi lui',s,(yaga) giichi* lwi*7,JLC;RLC10;FSL16
+E1201,zai,yaga guiichi xiga be,s,yaga giichi* zhiga be,VC17
+E0080,zai,yaga guiichi yaa,s,(yaga) giichi* yaa,JLC;RLC14
+E0582,zai,yaga huala'dxi',s,(yaga) wa-la!7dxi,JLC;RLC10
+E1277,zai,yaga huecu,s,yaga we*ku,ND;RGL03;RLC04;RLC10
+E0130,zai,yaga huigu',s,(yaga) wigu!7,EJG;JLC;ND;RGL03;RLC04;RLC10;FSL12
+E0051,zai,yaga igu',s,(yaga) igu!7,RLC04;RLC10
+E0618,zai,yaga la guiaa,s,(yaga) la* gyaa*,JLC;RGL03;RLC10;FSL14;PTV14;RLL14;FSL15
+E1115,zai,yaga la guie,s,(yaga) la* gye,FSL15
+E0619,zai,yaga la guitu,s,(yaga) la* gi^tu,EJG;JLC;ND;VP;RLC10;FSL12;ATR14;FSL14;JLC14;LLL14;RLC14
+E0316,zai,yaga la guitu copal,s,(yaga la* gitu) ko-pa!l,FSL12;FSL15
+E1093,zai,yaga la guitu guiichi,s,(yaga) la* gi^tu giichi*,FSL14;FSL15
+E1092,zai,yaga la guitu quichi',s,(yaga) la* gi^tu kichi!',ATR14;JLC14;LLL14;RLC14;FSL15
+E1091,zai,yaga la guitu xiña',s,(yaga) la* gi^tu zhinya*',FSL14;JLC14;LLL14;RLC14;VOT14;FSL15
+E0085,zai,yaga la xhadxi,s,(yaga) la* xa*dxi,JLC;RLC14;RLL14
+E0957,zai,yaga lima,s,yaga li*ma,RLC04;RLC14;VC17
+E0958,zai,yaga limon,s,yaga li-mo!n,RLC04;VC17
+E0672,zai,yaga ma lu'lu',s,(yaga) ma lu!7lu,JLC;FSL12
+E0959,zai,yaga mandarina,s,(yaga) mandari*na,JLC;RLC04
+E0086,zai,yaga mangu,s,yaga ma*ngu,JLC
+E0961,zai,yaga mansana,s,yaga mansa*na,RLC04
+E0784,zai,yaga naga',s,ya na-ga!7,RGL03;RLC10;RLC14;VC17
+E0089,zai,yaga nanchi,s,yaga na*nchi,JLC
+E0965,zai,yaga naranja,s,yaga nara*nja,JLC;RLC04;RLC10
+E0966,zai,yaga ngaaxi',s,"yaga ngaazhi DEN:RLC04,RLC10",RGL03;VC17
+E0967,zai,yaga niidxi,s,yaga niidxi* DEN:RLC14,RLC10
+E0968,zai,yaga nin,s,yaga ni!n,RLC12
+E0969,zai,yaga nisa,s,yaga nisa,JLC;RLC10;VC17
+E0090,zai,yaga papaya,s,yaga papa*ya,RLC10;VC17
+E0746,zai,yaga papaya gui'xhi',s,(yaga) papa*ya gi7xi,BSL12;FSL12;FSL14;MLC14;RLC14
+E0743,zai,yaga papaya gunaa,s,(yaga) papa*ya gu-naa,RGL03;RLC04;RLC10;RLC14
+E0091,zai,yaga papaya nguiu',s,(yaga) papa*ya ngyu!7,RGL03;RLC04;RLC10;VC17
+E0971,zai,yaga pinu,s,(yaga) pinu,JLC;RLC04;RLC10
+E1261,zai,yaga pirul,s,yaga pi-ru!l,VC17
+E0765,zai,yaga piñon,s,(yaga) pi-nyo!n,JLC;RLC04;RLC10;VC17
+E0972,zai,yaga queebe',s,yaga keebe,EJG;FSL14;MLL14;RLC14;VC17
+E0973,zai,yaga rroble,s,(yaga) ro*ble,JLC;RLC04;RLC10
+E1105,zai,yaga tachuela,s,yaga tachwe*la,FSL14
+E0974,zai,yaga tama,s,(yaga) tama,JLC;RLC07;RLC10;CS12;FSL15
+E0976,zai,yaga tini,s,yaga tini,RGL03;RLC10;FSL14
+E0975,zai,yaga tinta,s,yaga ti*nta,FSL12
+E0977,zai,yaga tuxhu,s,yaga tuxu,ND;RLC10;MLL14;VC17
+E0978,zai,yaga ule,s,yaga u*le,RLC10
+E1125,zai,yaga verde,s,yaga be*rrde,FSL13;RLL14
+E0981,zai,yaga xhuxhu,s,yaga xuxu*,JLC;MLC14;RLC14
+E1031,zai,yaga xuba' be'za',s,yaga zhuba!' be7za,JLC;RGL03;RLC10;BSL12;FSL12
+E0982,zai,yaga xuga,s,yaga zhuga,EJG;JLC;RLC10;FSL12;FSL14;RLC14
+E0983,zai,yaga yaa,s,yaga yaa,RGL03;RLC10;RLC14
+E0984,zai,yaga yaabi',s,yaga yaabi,RGL03;RLC10;VC17
+E1060,zai,yaga yaazi',s,(yaga) yaazi,EJG;RLC10;FSL12;FSL14;RLC14
+E0052,zai,yaga yana',s,(yaga) yana!7,EJG;JLC;ND;RLC10;FSL12;VC12;MLC14;RLC14;RLL14;VOT14
+E0987,zai,yaga yaxhu,s,yaga yaxu,RLC04;RLC10
+E0991,zai,yaga zidi,s,yaga zidi,JLC;VC17
+E0992,zai,yaga ziña,s,yaga zinya,EJG;JLC;ND;VP;RGL03;RLC04;RLC10;FSL15;RLC15;VOT15
+E0970,zai,yaga ñee,s,yaga nyee,JLC;RLC10
+E1053,zai,yape,s,ya*pe,EJG;ND;VP;RLC04;RLC10;VC17
+E0997,zai,yaxhu,s,yaxu,EJG;JLC;ND;VP;RLC04;RLC10;RLC14
+E0404,zai,yaya xuba',s,ya*ya* zhuba!7,VC17
+E1258,zai,yaza,s,yaza,VC17
+E1000,zai,yerba de cancer,s,ye*rba de+ ka*nser,RGL03;RLC04;RLC10
+E1001,zai,yerbabuena,s,yerbabwe*na,JLC;RLC04;RLC10
+E1002,zai,yerbadetoro,s,ye*rba de toro,RGL03;RLC04;RLC10;FSL12;FSL17
+E1003,zai,yerbasanta,s,yerbasa*nta,JLC;RGL03;RLC04;RLC10;FSL12
+E1004,zai,yonde',s,yonde!7,JLC;RLC10
+E1006,zai,yu cue'la',s,yu kwe7la,RLC04;RLC10;VC17
+E1007,zai,yudxi,s,yudxi*,JLC;VP;RLC10
+E0800,zai,za biduni,s,za bi!-du*ni,EJG;JLC;ND;RLC10;FSL12;FSL14;RLC14;FSL15
+E0801,zai,za biguini,s,za bi!-gi*ni,JLC;RLC10;FSL12;FSL15;VOT15
+E1009,zai,za niñu,s,za ni*nyu,RLC04
+E1011,zai,zana,s,zana,RGL03
+E1012,zai,zana naxhi,s,za_na na_xi,EJG;ND;VC17
+E1014,zai,zee,s,zee,EJG;JLC;ND;VP;RGL03;RLC04;RLC10
+E0989,zai,zee huiini',s,zee wiini,RLC14
+E1015,zai,ziidi',s,ziidi,EJG;ND
+E1017,zai,ziña banda',s,zinya ba-nda*7,JLC;ND;RLC10;VC17
+E1278,zai,ziña bidxi,s,zinya bidxi,VC17
+E1018,zai,ziña bya,s,zinya bya,EJG;JLC;ND;RLC10
+E1021,zai,ziña daa,s,zinya daa,JLC;RLC10;FSL14;VC17
+E1022,zai,ziña yaa,s,zinya yaa,RGL03;RLC10;VC17
+E0735,zai,ñaa,s,nyaa,JLC;ND;RLC10
+E1267,zai,ñaa xcu,s,nyaa* x.ku,VC17
+E1210,zai,ñee bandaga,s,nyee ba-ndaga,VC17
+E1069,zai,ñee bidxiña,s,nyee bi-dxinya*,FSL14
+E0737,zai,ñee yaga,s,nyee yaga,RGL03;RLC10

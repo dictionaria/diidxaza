@@ -5,33 +5,77 @@
             "@language": "en"
         }
     ],
+    "dc:bibliographicCitation": "P\u00e9rez B\u00e1ez, Gabriela and Kaufman, Terrence. 2018. La Ventosa Diidxaz\u00e1 Lexico-Botanical Dictionary. Dictionaria 5. 1-952 (Available online at https://dictionaria.clld.org/contributions/diidxaza)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Dictionary",
     "dc:creator": "Gabriela P\u00e9rez B\u00e1ez and Terrence Kaufman",
     "dc:identifier": "https://dictionaria.clld.org/contributions/diidxaza",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:title": "La Ventosa Diidxaz\u00e1 Lexico-Botanical Dictionary",
+    "dcat:accessURL": "git@github.com:dictionaria/diidxaza",
+    "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "git@github.com:dictionaria/diidxaza",
+            "dc:created": "v1.0-3-g4dc7ce3"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.3-treedb-fixes"
+        }
+    ],
+    "prov:wasGeneratedBy": [
+        {
+            "dc:title": "python",
+            "dc:description": "3.8.5"
+        },
+        {
+            "dc:title": "python-packages",
+            "dc:relation": "requirements.txt"
+        }
+    ],
+    "rdf:ID": "diidxaza",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
-        "encoding": "utf-8-sig"
+        "commentPrefix": null
     },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#EntryTable",
+            "dc:extent": 952,
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "string",
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "name": "EntryID",
-                        "titles": "entry ID"
+                        "required": true,
+                        "name": "ID"
                     },
                     {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#partOfSpeech",
-                        "name": "POS"
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "required": true,
+                        "name": "Language_ID"
                     },
                     {
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#headword",
+                        "required": true,
                         "name": "Headword"
                     },
                     {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#partOfSpeech",
+                        "required": false,
+                        "name": "Part_Of_Speech"
+                    },
+                    {
+                        "datatype": "string",
                         "name": "HeadwordPDLMA",
                         "titles": "PDLMA"
                     },
@@ -40,12 +84,6 @@
                         "separator": ";",
                         "name": "Sources",
                         "titles": "Speaker"
-                    },
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
-                        "valueUrl": "isth1244",
-                        "name": "Language_ID",
-                        "virtual": true
                     }
                 ],
                 "foreignKeys": [
@@ -62,51 +100,161 @@
                     }
                 ],
                 "primaryKey": [
-                    "EntryID"
+                    "ID"
                 ]
             },
             "url": "entries.csv"
         },
         {
-            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#SenseTable",
+            "dc:extent": 952,
             "tableSchema": {
                 "columns": [
                     {
                         "datatype": {
                             "base": "string",
-                            "format": "[a-zA-Z0-9\\-]+"
+                            "format": "[a-zA-Z0-9_\\-]+"
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "required": true,
-                        "name": "ExampleID",
-                        "titles": "exampleID"
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": true,
+                        "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#entryReference",
+                        "required": true,
+                        "name": "Entry_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "alt_translation1",
+                        "titles": "Diidxaz\u00e1"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "alt_translation2",
+                        "titles": "Spanish"
+                    },
+                    {
+                        "datatype": "string",
+                        "separator": ",",
+                        "name": "Media_IDs",
+                        "titles": "SpecimenImagesByTaxa"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "AssociatedTaxa",
+                        "titles": "Taxa"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Entry_ID"
+                        ],
+                        "reference": {
+                            "resource": "entries.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Media_IDs"
+                        ],
+                        "reference": {
+                            "resource": "media.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "senses.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
+            "dc:extent": 368,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "required": true,
+                        "name": "Language_ID"
                     },
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#primaryText",
                         "required": true,
-                        "name": "ZapAPText"
+                        "name": "Primary_Text"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#analyzedWord",
+                        "required": false,
+                        "separator": "\\t",
+                        "name": "Analyzed_Word"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#gloss",
+                        "required": false,
+                        "separator": "\\t",
+                        "name": "Gloss"
                     },
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#translatedText",
-                        "name": "EngText"
+                        "required": false,
+                        "name": "Translated_Text"
                     },
                     {
                         "datatype": "string",
-                        "name": "alt_translation2",
-                        "titles": "SpaText"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#metaLanguageReference",
+                        "required": false,
+                        "name": "Meta_Language_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "required": false,
+                        "name": "Comment"
                     },
                     {
                         "datatype": "string",
                         "name": "alt_translation1",
-                        "titles": "ZapPDLMAText"
+                        "titles": "Diidxaz\u00e1"
                     },
                     {
                         "datatype": "string",
-                        "separator": ";",
-                        "name": "Sense_IDs",
-                        "titles": "Senses"
+                        "name": "alt_translation2",
+                        "titles": "Spanish"
+                    },
+                    {
+                        "datatype": "string",
+                        "separator": " ; ",
+                        "name": "Sense_IDs"
                     },
                     {
                         "datatype": "string",
@@ -116,40 +264,12 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
                         "separator": ";",
-                        "name": "Sources"
-                    },
-                    {
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
-                        "valueUrl": "isth1244",
-                        "name": "Language_ID",
-                        "virtual": true
+                        "name": "Sources",
+                        "titles": "Speaker"
                     }
                 ],
                 "foreignKeys": [
-                    {
-                        "columnReference": [
-                            "Sense_IDs"
-                        ],
-                        "reference": {
-                            "resource": "senses.csv",
-                            "columnReference": [
-                                "SenseID"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
-                            "Media_IDs"
-                        ],
-                        "reference": {
-                            "resource": "media.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
                     {
                         "columnReference": [
                             "Language_ID"
@@ -160,60 +280,18 @@
                                 "ID"
                             ]
                         }
-                    }
-                ],
-                "primaryKey": [
-                    "ExampleID"
-                ]
-            },
-            "url": "examples.csv"
-        },
-        {
-            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#SenseTable",
-            "tableSchema": {
-                "columns": [
-                    {
-                        "datatype": {
-                            "base": "string",
-                            "format": "[a-zA-Z0-9\\-]+"
-                        },
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "required": true,
-                        "name": "SenseID"
                     },
                     {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
-                        "separator": "|",
-                        "name": "EngDesc"
+                        "columnReference": [
+                            "Meta_Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
                     },
-                    {
-                        "datatype": "string",
-                        "name": "alt_translation2",
-                        "titles": "SpaDesc"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "alt_translation1",
-                        "titles": "ZapDesc"
-                    },
-                    {
-                        "datatype": "string",
-                        "separator": ",",
-                        "name": "Media_IDs",
-                        "titles": "SpecimenImagesByTaxa"
-                    },
-                    {
-                        "name": "AssociatedTaxa",
-                        "titles": "Taxa"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#entryReference",
-                        "name": "EntryID"
-                    }
-                ],
-                "foreignKeys": [
                     {
                         "columnReference": [
                             "Media_IDs"
@@ -227,42 +305,72 @@
                     },
                     {
                         "columnReference": [
-                            "EntryID"
+                            "Sense_IDs"
                         ],
                         "reference": {
-                            "resource": "entries.csv",
+                            "resource": "senses.csv",
                             "columnReference": [
-                                "EntryID"
+                                "ID"
                             ]
                         }
                     }
                 ],
                 "primaryKey": [
-                    "SenseID"
+                    "ID"
                 ]
             },
-            "url": "senses.csv"
+            "url": "examples.csv"
         },
         {
+            "dc:extent": 2858,
             "tableSchema": {
                 "columns": [
                     {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "name": "ID"
                     },
                     {
                         "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "name": "Language_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
                         "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Filename"
                     },
                     {
                         "datatype": "anyURI",
                         "name": "URL"
                     },
                     {
+                        "datatype": "string",
                         "name": "mimetype"
                     },
                     {
                         "datatype": "integer",
                         "name": "size"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
                     }
                 ],
                 "primaryKey": [
@@ -273,6 +381,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:extent": 1,
             "tableSchema": {
                 "columns": [
                     {
