@@ -17,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "git@github.com:dictionaria/diidxaza",
-            "dc:created": "v1.0-3-g4dc7ce3"
+            "dc:created": "v1.0-4-g6d5b3d7"
         },
         {
             "rdf:type": "prov:Entity",

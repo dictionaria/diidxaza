@@ -1,8 +1,10 @@
 {
-    "license": {
-        "id": "CC-BY-4.0"
-    },
+    "title": "dictionaria/diidxaza: La Ventosa Diidxaz\u00e1 Lexico-Botanical Dictionary",
     "access_right": "open",
+    "keywords": [
+        "cldf:Dictionary",
+        "linguistics"
+    ],
     "creators": [
         {
             "name": "Gabriela P\u00e9rez B\u00e1ez"
@@ -23,9 +25,8 @@
         }
     ],
     "upload_type": "dataset",
-    "title": "dictionaria/diidxaza: La Ventosa Diidxaz\u00e1 Lexico-Botanical Dictionary",
-    "keywords": [
-        "cldf:Dictionary",
-        "linguistics"
-    ]
+    "license": {
+        "id": "CC-BY-4.0"
+    },
+    "description": "P\u00e9rez B\u00e1ez, Gabriela and Kaufman, Terrence. 2018. La Ventosa Diidxaz\u00e1 Lexico-Botanical Dictionary. Dictionaria 5. 1-952 (Available online at https://dictionaria.clld.org/contributions/diidxaza)"
 }
