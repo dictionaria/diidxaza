@@ -42,7 +42,7 @@ def add_media_metadata(media_catalog, media_row):
     if media_row.get('ID') in media_catalog:
         metadata = {
             'URL': rfc3986.uri.URIReference.from_string(
-                'https://cdstar.shh.mpg.de/bitstreams/{0[objid]}/{0[original]}'.format(
+                'https://cdstar.eva.mpg.de/bitstreams/{0[objid]}/{0[original]}'.format(
                     media_catalog[media_row['ID']])),
             'mimetype': media_catalog[media_row['ID']]['mimetype'],
             'size': media_catalog[media_row['ID']]['size'],
