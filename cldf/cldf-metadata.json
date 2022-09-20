@@ -16,13 +16,13 @@
         {
             "rdf:about": "https://github.com/dictionaria/diidxaza",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1-3-gc73254a",
+            "dc:created": "v1.2-1-g6b0536c",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
+            "dc:created": "v4.6",
             "dc:title": "Glottolog"
         }
     ],
@@ -38,9 +38,6 @@
     ],
     "rdf:ID": "diidxaza",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
-    "dialect": {
-        "commentPrefix": null
-    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#EntryTable",
@@ -445,7 +442,7 @@
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
                         "required": false,
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottocode}",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
                         "name": "Glottocode"
                     },
                     {
