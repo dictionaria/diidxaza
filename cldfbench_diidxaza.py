@@ -39,13 +39,15 @@ def split_arrays(row, array_cols):
 
 
 def add_media_metadata(media_catalog, media_row):
-    if media_row.get('ID') in media_catalog:
+    if (file_metadata := media_catalog.get(media_row['ID'])):
         metadata = {
-            'URL': rfc3986.uri.URIReference.from_string(
-                'https://cdstar.eva.mpg.de/bitstreams/{0[objid]}/{0[original]}'.format(
-                    media_catalog[media_row['ID']])),
-            'mimetype': media_catalog[media_row['ID']]['mimetype'],
-            'size': media_catalog[media_row['ID']]['size'],
+            'Name': file_metadata['original'],
+            'Download_URL': rfc3986.uri.URIReference.from_string(
+                'https://cdstar.eva.mpg.de/bitstreams/{}/{}'.format(
+                    file_metadata['objid'],
+                    file_metadata['original'])),
+            'Media_Type': file_metadata['mimetype'],
+            'size': file_metadata['size'],
         }
         return ChainMap(media_row, metadata)
     else:
@@ -182,6 +184,7 @@ class Dataset(BaseDataset):
             {
                 'ID': k,
                 'Description': 'Taxa: {}'.format(', '.join(sorted(v))) if isinstance(v, set) else v,
+                'Language_ID': language_id,
             }
             for k, v in sorted(media_dict.items())]
         media = [add_media_metadata(media_catalog, row) for row in media]
@@ -207,6 +210,7 @@ class Dataset(BaseDataset):
             },
             {
                 'name': 'Media_IDs',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#mediaReference',
                 'datatype': 'string',
                 'separator': ' ; ',
                 'titles': 'Audio',
@@ -218,14 +222,9 @@ class Dataset(BaseDataset):
                 'separator': ';',
             })
 
-        args.writer.cldf.add_table(
-            'media.csv',
-            'http://cldf.clld.org/v1.0/terms.rdf#id',
+        args.writer.cldf.add_component(
+            'MediaTable',
             'http://cldf.clld.org/v1.0/terms.rdf#languageReference',
-            'http://cldf.clld.org/v1.0/terms.rdf#description',
-            'Filename',
-            {'name': 'URL', 'datatype': 'anyURI'},
-            'mimetype',
             {'name': 'size', 'datatype': 'integer'})
 
         args.writer.cldf.add_component('LanguageTable')
@@ -258,6 +257,7 @@ class Dataset(BaseDataset):
             },
             {
                 'name': 'Media_IDs',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#mediaReference',
                 'datatype': 'string',
                 'titles': 'SpecimenImagesByTaxa',
                 'separator': ',',
@@ -268,10 +268,6 @@ class Dataset(BaseDataset):
                 'titles': 'Taxa',
             })
 
-        args.writer.cldf.add_foreign_key(
-            'SenseTable', 'Media_IDs', 'media.csv', 'ID')
-        args.writer.cldf.add_foreign_key(
-            'ExampleTable', 'Media_IDs', 'media.csv', 'ID')
         args.writer.cldf.add_foreign_key(
             'ExampleTable', 'Sense_IDs', 'SenseTable', 'ID')
 
@@ -292,4 +288,4 @@ class Dataset(BaseDataset):
         args.writer.objects['EntryTable'] = entries
         args.writer.objects['SenseTable'] = senses
         args.writer.objects['ExampleTable'] = examples
-        args.writer.objects['media.csv'] = media
+        args.writer.objects['MediaTable'] = media
