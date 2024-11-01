@@ -20,8 +20,8 @@
             }
         },
         "metalanguages": {
-            "gxx": "Diidxazá",
-            "gxy": "Spanish"
+            "gxx": "Spanish",
+            "gxy": "Diidxazá"
         },
         "custom_fields": ["PDLMA"],
         "second_tab": ["Spanish", "Diidxazá"]

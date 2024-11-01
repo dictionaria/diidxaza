@@ -24,9 +24,9 @@ SENSE_MAP = {
 EXAMPLE_MAP = {
     'ExampleID': 'ID',
     'Senses': 'Sense_IDs',
-    'ZapPDLMAText': 'alt_translation1',
+    'ZapPDLMAText': 'alt_translation2',
     'ZapAPText': 'Primary_Text',
-    'SpaText': 'alt_translation2',
+    'SpaText': 'alt_translation1',
     'EngText': 'Translated_Text',
     'Audio': 'Media_IDs',
 }
